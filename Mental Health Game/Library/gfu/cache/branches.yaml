@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2020-01-18T12:21:56.564-08:00
+  initializedAtString: 2020-01-18T12:20:46.129-08:00
+  localBranches:
+  - name: C_Programming-Branch
+    tracking: 
+  - name: master
+    tracking: origin/master
+  - name: Test-Branch
+    tracking: origin/Test-Branch
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/enganeer13/MHGame.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - C_Programming-Branch
+    - master
+    - Test-Branch
+    values:
+    - name: C_Programming-Branch
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/enganeer13/MHGame.git
+      trackingBranch: master
+    - name: Test-Branch
+      remote:
+        name: origin
+        url: https://github.com/enganeer13/MHGame.git
+      trackingBranch: Test-Branch
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/enganeer13/MHGame.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/enganeer13/MHGame.git
