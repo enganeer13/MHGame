@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-01-18T20:22:25.640-08:00
+  initializedAtString: 2020-01-18T20:03:31.633-08:00
+  entries:
+  - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+      (1)\rpg-pack\tiles\Materials\Prototype Pattern.mat
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\2d
+      temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa (1)\rpg-pack\tiles\Materials\Prototype
+      Pattern.mat
+    projectPath: Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+      (1)\rpg-pack\tiles\Materials\Prototype Pattern.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+      (1)\rpg-pack\tiles\Materials\Prototype Pattern.mat.meta
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\2d
+      temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa (1)\rpg-pack\tiles\Materials\Prototype
+      Pattern.mat.meta
+    projectPath: Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+      (1)\rpg-pack\tiles\Materials\Prototype Pattern.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Materials.meta
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Materials.meta
+    projectPath: Assets\Materials.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Assets\Materials\Prototype Pattern.mat
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Materials\Prototype
+      Pattern.mat
+    projectPath: Assets\Materials\Prototype Pattern.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Assets\Materials\Prototype Pattern.mat.meta
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Materials\Prototype
+      Pattern.mat.meta
+    projectPath: Assets\Materials\Prototype Pattern.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Assets\Test Scene.unity
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Test
+      Scene.unity
+    projectPath: Assets\Test Scene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\assetDatabase3
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\metadata\6b\6b697f299b5aef44880c934a313a45b3
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\metadata\6b\6b697f299b5aef44880c934a313a45b3
+    projectPath: Library\metadata\6b\6b697f299b5aef44880c934a313a45b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\metadata\dd\ddb313181cbd46541b06272b7f394100
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\metadata\dd\ddb313181cbd46541b06272b7f394100
+    projectPath: Library\metadata\dd\ddb313181cbd46541b06272b7f394100
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Library\metadata\dd\ddb313181cbd46541b06272b7f394100.info
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\metadata\dd\ddb313181cbd46541b06272b7f394100.info
+    projectPath: Library\metadata\dd\ddb313181cbd46541b06272b7f394100.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Temp\UnityLockfile
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-d841603aafd56854bbf486d0627121ba
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-d841603aafd56854bbf486d0627121ba
+    projectPath: Temp\UnityTempFile-d841603aafd56854bbf486d0627121ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
