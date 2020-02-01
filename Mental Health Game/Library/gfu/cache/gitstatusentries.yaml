@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-01-31T18:48:37.710-08:00
+  lastUpdatedAtString: 2020-01-31T18:48:44.721-08:00
   initializedAtString: 2020-01-31T18:42:16.419-08:00
   entries:
   - path: Mental Health Game\Assets\Test Scene.unity
@@ -26,18 +26,6 @@ MonoBehaviour:
   - path: Mental Health Game\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Mental Health Game\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Mental Health Game\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
