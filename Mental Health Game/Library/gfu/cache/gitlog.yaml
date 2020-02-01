@@ -13,9 +13,261 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-01-31T20:50:03.288-08:00
-  initializedAtString: 2020-01-31T20:49:46.049-08:00
+  lastUpdatedAtString: 2020-02-01T10:23:50.842-08:00
+  initializedAtString: 2020-02-01T10:23:37.629-08:00
   log:
+  - commitID: de0a6b0e2885796231ac5489a8dac5fa8c7f98f4
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: Collisions + art
+    description: Collisions + art
+    timeString: 2020-02-01T10:23:35.000-08:00
+    commitTimeString: 2020-02-01T10:23:35.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\Art\GS_Vase.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\GS_Vase.png
+      projectPath: Assets\Art\GS_Vase.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\GS_Vase.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\GS_Vase.png.meta
+      projectPath: Assets\Art\GS_Vase.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\colored_bottom_walltile.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\colored_bottom_walltile.png
+      projectPath: Assets\Art\colored_bottom_walltile.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\colored_bottom_walltile.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\colored_bottom_walltile.png.meta
+      projectPath: Assets\Art\colored_bottom_walltile.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\colored_floortile.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\colored_floortile.png
+      projectPath: Assets\Art\colored_floortile.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\colored_floortile.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\colored_floortile.png.meta
+      projectPath: Assets\Art\colored_floortile.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\desk.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\desk.png
+      projectPath: Assets\Art\desk.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\desk.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\desk.png.meta
+      projectPath: Assets\Art\desk.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\desk_diagonal_left.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\desk_diagonal_left.png
+      projectPath: Assets\Art\desk_diagonal_left.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\desk_diagonal_left.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\desk_diagonal_left.png.meta
+      projectPath: Assets\Art\desk_diagonal_left.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\main_colored_walltile.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\main_colored_walltile.png
+      projectPath: Assets\Art\main_colored_walltile.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\main_colored_walltile.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\main_colored_walltile.png.meta
+      projectPath: Assets\Art\main_colored_walltile.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolor_desk_right_diagonal.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolor_desk_right_diagonal.png
+      projectPath: Assets\Art\offcolor_desk_right_diagonal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolor_desk_right_diagonal.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolor_desk_right_diagonal.png.meta
+      projectPath: Assets\Art\offcolor_desk_right_diagonal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolor_floortile.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolor_floortile.png
+      projectPath: Assets\Art\offcolor_floortile.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolor_floortile.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolor_floortile.png.meta
+      projectPath: Assets\Art\offcolor_floortile.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolored_bottom_walltile.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolored_bottom_walltile.png
+      projectPath: Assets\Art\offcolored_bottom_walltile.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolored_bottom_walltile.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolored_bottom_walltile.png.meta
+      projectPath: Assets\Art\offcolored_bottom_walltile.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolored_desk.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolored_desk.png
+      projectPath: Assets\Art\offcolored_desk.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolored_desk.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolored_desk.png.meta
+      projectPath: Assets\Art\offcolored_desk.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolored_left_diagonal_desk.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolored_left_diagonal_desk.png
+      projectPath: Assets\Art\offcolored_left_diagonal_desk.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolored_left_diagonal_desk.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolored_left_diagonal_desk.png.meta
+      projectPath: Assets\Art\offcolored_left_diagonal_desk.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolored_main_walltile.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolored_main_walltile.png
+      projectPath: Assets\Art\offcolored_main_walltile.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\offcolored_main_walltile.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\offcolored_main_walltile.png.meta
+      projectPath: Assets\Art\offcolored_main_walltile.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 1854f01ecd8614d6a66645d6bb0c218816ab429b
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: Movement Finished
+    description: WE GOT MOVEMENT
+    timeString: 2020-01-31T21:55:48.000-08:00
+    commitTimeString: 2020-01-31T21:55:48.000-08:00
+    changes:
+    - path: Mental Health Game\Library\ArtifactDB
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\b2\b2367b0debb29693cd779927ad462d3d
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\b2\b2367b0debb29693cd779927ad462d3d
+      projectPath: Library\Artifacts\b2\b2367b0debb29693cd779927ad462d3d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+      projectPath: Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\SourceAssetDB
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      projectPath: Library\StateCache\SceneView\428282-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 50f49735532204cc9dddd9bea382e30c620a67c7
     mergeA: 
     mergeB: 

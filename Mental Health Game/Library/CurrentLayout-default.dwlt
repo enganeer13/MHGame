@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 60
+  controlID: 58
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,7 +94,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 322
-    height: 440
+    height: 404
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
@@ -118,9 +118,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 440
+    y: 404
     width: 1094
-    height: 291
+    height: 327
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 14}
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 61
+  controlID: 63
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -241,11 +241,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1094
-    height: 440
+    height: 404
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 62
+  controlID: 64
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -264,7 +264,7 @@ MonoBehaviour:
     x: 322
     y: 0
     width: 772
-    height: 440
+    height: 404
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
@@ -329,10 +329,10 @@ MonoBehaviour:
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
-  currentTrackingStatusHasUpdate: 1
-  currentStatusEntriesHasUpdate: 1
-  repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 1
+  currentTrackingStatusHasUpdate: 0
+  currentStatusEntriesHasUpdate: 0
+  repositoryProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 0
   changeTab: 3
   activeTab: 3
   initProjectView:
@@ -501,10 +501,10 @@ MonoBehaviour:
     disableDelete: 1
     disableCreate: 0
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 2020-01-31T18:54:26.404-08:00
+      updatedTimeString: 2020-01-31T21:55:49.936-08:00
       cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2020-01-31T18:54:16.270-08:00
+      updatedTimeString: 2020-01-31T20:50:02.238-08:00
       cacheType: 1
     currentBranch:
       name: C_Programming-Branch
@@ -528,9 +528,9 @@ MonoBehaviour:
     - name: origin/master
       tracking: '[None]'
   changesView:
-    currentBranchHasUpdate: 1
-    currentStatusEntriesHasUpdate: 1
-    currentLocksHasUpdate: 1
+    currentBranchHasUpdate: 0
+    currentStatusEntriesHasUpdate: 0
+    currentLocksHasUpdate: 0
     commitBody: 
     commitMessage: 
     currentBranch: '[C_Programming-Branch]'
@@ -542,11 +542,40 @@ MonoBehaviour:
       folders:
         keys:
         - Mental Health Game
+        - Mental Health Game\Assets
+        - Mental Health Game\Assets\2d temp assets
+        - Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+          (1)
+        - Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+          (1)\rpg-pack
+        - Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+          (1)\rpg-pack\chars
+        - Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+          (1)\rpg-pack\chars\gabe
+        - Mental Health Game\Assets\Scripts
+        - Mental Health Game\Assets\Scripts\Common
         - Mental Health Game\Library
+        - Mental Health Game\Library\Artifacts
+        - Mental Health Game\Library\Artifacts\01
+        - Mental Health Game\Library\Artifacts\1a
+        - Mental Health Game\Library\Artifacts\34
+        - Mental Health Game\Library\Artifacts\38
+        - Mental Health Game\Library\Artifacts\47
+        - Mental Health Game\Library\Artifacts\5d
+        - Mental Health Game\Library\Artifacts\d2
+        - Mental Health Game\Library\Artifacts\ea
         - Mental Health Game\Library\gfu
         - Mental Health Game\Library\gfu\cache
+        - Mental Health Game\Library\ScriptAssemblies
+        - Mental Health Game\Library\StateCache
+        - Mental Health Game\Library\StateCache\Hierarchy
+        - Mental Health Game\Library\StateCache\SceneView
+        - Mental Health Game\obj
+        - Mental Health Game\obj\Debug
         - Mental Health Game\Packages
+        - Mental Health Game\ProjectSettings
         - Mental Health Game\Temp
+        - Mental Health Game\Temp\__Backupscenes
         values:
         - path: Mental Health Game
           label: Mental Health Game
@@ -566,9 +595,319 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
+        - path: Mental Health Game\Assets
+          label: Assets
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Assets\2d temp assets
+          label: 2d temp assets
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+            (1)
+          label: generic-rpg-pack_v0.3_(alpha-release)_vacaroxa (1)
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+            (1)\rpg-pack
+          label: rpg-pack
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+            (1)\rpg-pack\chars
+          label: chars
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+            (1)\rpg-pack\chars\gabe
+          label: gabe
+          level: 6
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Assets\Scripts
+          label: Scripts
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Assets\Scripts\Common
+          label: Common
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
         - path: Mental Health Game\Library
           label: Library
           level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\Artifacts
+          label: Artifacts
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\Artifacts\01
+          label: 01
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\Artifacts\1a
+          label: 1a
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\Artifacts\34
+          label: 34
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\Artifacts\38
+          label: 38
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\Artifacts\47
+          label: 47
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\Artifacts\5d
+          label: 5d
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\Artifacts\d2
+          label: d2
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\Artifacts\ea
+          label: ea
+          level: 3
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -620,8 +959,134 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
+        - path: Mental Health Game\Library\ScriptAssemblies
+          label: ScriptAssemblies
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\StateCache
+          label: StateCache
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\StateCache\Hierarchy
+          label: Hierarchy
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Library\StateCache\SceneView
+          label: SceneView
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\obj
+          label: obj
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\obj\Debug
+          label: Debug
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
         - path: Mental Health Game\Packages
           label: Packages
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\ProjectSettings
+          label: ProjectSettings
           level: 1
           isFolder: 1
           isContainer: 0
@@ -641,6 +1106,24 @@ MonoBehaviour:
         - path: Mental Health Game\Temp
           label: Temp
           level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Mental Health Game\Temp\__Backupscenes
+          label: __Backupscenes
+          level: 2
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -702,6 +1185,465 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Mental Health Game\Assets
+        label: Assets
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Assets\2d temp assets
+        label: 2d temp assets
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+          (1)
+        label: generic-rpg-pack_v0.3_(alpha-release)_vacaroxa (1)
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+          (1)\rpg-pack
+        label: rpg-pack
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+          (1)\rpg-pack\chars
+        label: chars
+        level: 5
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+          (1)\rpg-pack\chars\gabe
+        label: gabe
+        level: 6
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+          (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+        label: gabe-idle-run.png.meta
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+            (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\2d
+            temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+          projectPath: Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+            (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Mental Health Game\Assets\Scripts
+        label: Scripts
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Assets\Scripts\BasicCharacter.cs
+        label: BasicCharacter.cs
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\BasicCharacter.cs
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\BasicCharacter.cs
+          projectPath: Assets\Scripts\BasicCharacter.cs
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 5
+      - path: Mental Health Game\Assets\Scripts\BasicCharacter.cs.meta
+        label: BasicCharacter.cs.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\BasicCharacter.cs.meta
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\BasicCharacter.cs.meta
+          projectPath: Assets\Scripts\BasicCharacter.cs.meta
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 5
+      - path: Mental Health Game\Assets\Scripts\Common.meta
+        label: Common.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common.meta
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common.meta
+          projectPath: Assets\Scripts\Common.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common
+        label: Common
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs
+        label: BasicCharacter.cs
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs
+          projectPath: Assets\Scripts\Common\BasicCharacter.cs
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs.meta
+        label: BasicCharacter.cs.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs.meta
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs.meta
+          projectPath: Assets\Scripts\Common\BasicCharacter.cs.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs
+        label: ColliderToolEditor.cs
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs
+          projectPath: Assets\Scripts\Common\ColliderToolEditor.cs
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs.meta
+        label: ColliderToolEditor.cs.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs.meta
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs.meta
+          projectPath: Assets\Scripts\Common\ColliderToolEditor.cs.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs
+        label: EditableColliderTool.cs
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs
+          projectPath: Assets\Scripts\Common\EditableColliderTool.cs
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs.meta
+        label: EditableColliderTool.cs.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs.meta
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs.meta
+          projectPath: Assets\Scripts\Common\EditableColliderTool.cs.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\EditableShape.cs
+        label: EditableShape.cs
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\EditableShape.cs
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableShape.cs
+          projectPath: Assets\Scripts\Common\EditableShape.cs
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\EditableShape.cs.meta
+        label: EditableShape.cs.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\EditableShape.cs.meta
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableShape.cs.meta
+          projectPath: Assets\Scripts\Common\EditableShape.cs.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\ResetScene.cs
+        label: ResetScene.cs
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\ResetScene.cs
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ResetScene.cs
+          projectPath: Assets\Scripts\Common\ResetScene.cs
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\ResetScene.cs.meta
+        label: ResetScene.cs.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\ResetScene.cs.meta
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ResetScene.cs.meta
+          projectPath: Assets\Scripts\Common\ResetScene.cs.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs
+        label: ShapeToolEditor.cs
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs
+          projectPath: Assets\Scripts\Common\ShapeToolEditor.cs
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs.meta
+        label: ShapeToolEditor.cs.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs.meta
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs.meta
+          projectPath: Assets\Scripts\Common\ShapeToolEditor.cs.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Assets\Test Scene.unity
+        label: Test Scene.unity
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Assets\Test Scene.unity
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Test
+            Scene.unity
+          projectPath: Assets\Test Scene.unity
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Mental Health Game\Library
         label: Library
         level: 1
@@ -720,6 +1662,384 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Mental Health Game\Library\ArtifactDB
+        label: ArtifactDB
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\ArtifactDB
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ArtifactDB
+          projectPath: Library\ArtifactDB
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Mental Health Game\Library\Artifacts
+        label: Artifacts
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\Artifacts\01
+        label: 01
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\Artifacts\01\010eca5d2bbf050c32fd2ff2819449e6
+        label: 010eca5d2bbf050c32fd2ff2819449e6
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\Artifacts\01\010eca5d2bbf050c32fd2ff2819449e6
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\01\010eca5d2bbf050c32fd2ff2819449e6
+          projectPath: Library\Artifacts\01\010eca5d2bbf050c32fd2ff2819449e6
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Library\Artifacts\1a
+        label: 1a
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\Artifacts\1a\1ad875bd04cc84251981df71c181d4cf
+        label: 1ad875bd04cc84251981df71c181d4cf
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\Artifacts\1a\1ad875bd04cc84251981df71c181d4cf
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\1a\1ad875bd04cc84251981df71c181d4cf
+          projectPath: Library\Artifacts\1a\1ad875bd04cc84251981df71c181d4cf
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 5
+      - path: Mental Health Game\Library\Artifacts\34
+        label: 34
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\Artifacts\34\347dd01a3f3193219561365dc00d0d92
+        label: 347dd01a3f3193219561365dc00d0d92
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\Artifacts\34\347dd01a3f3193219561365dc00d0d92
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\34\347dd01a3f3193219561365dc00d0d92
+          projectPath: Library\Artifacts\34\347dd01a3f3193219561365dc00d0d92
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Library\Artifacts\38
+        label: 38
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\Artifacts\38\3893bccaa7d4ff6739b76834909c8511
+        label: 3893bccaa7d4ff6739b76834909c8511
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\Artifacts\38\3893bccaa7d4ff6739b76834909c8511
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\38\3893bccaa7d4ff6739b76834909c8511
+          projectPath: Library\Artifacts\38\3893bccaa7d4ff6739b76834909c8511
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Library\Artifacts\47
+        label: 47
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\Artifacts\47\47eb7b1fe4b42be9ed46758360be9cf8
+        label: 47eb7b1fe4b42be9ed46758360be9cf8
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\Artifacts\47\47eb7b1fe4b42be9ed46758360be9cf8
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\47\47eb7b1fe4b42be9ed46758360be9cf8
+          projectPath: Library\Artifacts\47\47eb7b1fe4b42be9ed46758360be9cf8
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Library\Artifacts\5d
+        label: 5d
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\Artifacts\5d\5d0a9243b79d0997a1c9b8284b8c86bb
+        label: 5d0a9243b79d0997a1c9b8284b8c86bb
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\Artifacts\5d\5d0a9243b79d0997a1c9b8284b8c86bb
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\5d\5d0a9243b79d0997a1c9b8284b8c86bb
+          projectPath: Library\Artifacts\5d\5d0a9243b79d0997a1c9b8284b8c86bb
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Library\Artifacts\d2
+        label: d2
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+        label: d2fc302d0d7118431482ab603befcfaf
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+          projectPath: Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 5
+      - path: Mental Health Game\Library\Artifacts\ea
+        label: ea
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\Artifacts\ea\eac20e5e753bb0968152ea95023600e5
+        label: eac20e5e753bb0968152ea95023600e5
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\Artifacts\ea\eac20e5e753bb0968152ea95023600e5
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\ea\eac20e5e753bb0968152ea95023600e5
+          projectPath: Library\Artifacts\ea\eac20e5e753bb0968152ea95023600e5
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Mental Health Game\Library\CurrentLayout-default.dwlt
+        label: CurrentLayout-default.dwlt
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\CurrentLayout-default.dwlt
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\CurrentLayout-default.dwlt
+          projectPath: Library\CurrentLayout-default.dwlt
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Mental Health Game\Library\EditorInstance.json
+        label: EditorInstance.json
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\EditorInstance.json
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\EditorInstance.json
+          projectPath: Library\EditorInstance.json
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Mental Health Game\Library\expandedItems
+        label: expandedItems
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\expandedItems
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\expandedItems
+          projectPath: Library\expandedItems
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Mental Health Game\Library\gfu
         label: gfu
         level: 2
@@ -864,6 +2184,60 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
+      - path: Mental Health Game\Library\InspectorExpandedItems.asset
+        label: InspectorExpandedItems.asset
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\InspectorExpandedItems.asset
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\InspectorExpandedItems.asset
+          projectPath: Library\InspectorExpandedItems.asset
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Mental Health Game\Library\ScriptAssemblies
+        label: ScriptAssemblies
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+        label: Assembly-CSharp.dll
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Mental Health Game\Library\SourceAssetDB
         label: SourceAssetDB
         level: 2
@@ -879,6 +2253,150 @@ MonoBehaviour:
           path: Mental Health Game\Library\SourceAssetDB
           fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\SourceAssetDB
           projectPath: Library\SourceAssetDB
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Mental Health Game\Library\StateCache
+        label: StateCache
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\StateCache\Hierarchy
+        label: Hierarchy
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+        label: f9c5ac-mainStage.json
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+          projectPath: Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Mental Health Game\Library\StateCache\SceneView
+        label: SceneView
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+        label: 428282-mainStage.json
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+          projectPath: Library\StateCache\SceneView\428282-mainStage.json
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Mental Health Game\obj
+        label: obj
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\obj\Debug
+        label: Debug
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+        label: Assembly-CSharp.csprojAssemblyReference.cache
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+          projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -918,6 +2436,42 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
+      - path: Mental Health Game\ProjectSettings
+        label: ProjectSettings
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\ProjectSettings\TagManager.asset
+        label: TagManager.asset
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Mental Health Game\ProjectSettings\TagManager.asset
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\ProjectSettings\TagManager.asset
+          projectPath: ProjectSettings\TagManager.asset
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Mental Health Game\Temp
         label: Temp
         level: 1
@@ -936,10 +2490,10 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: Mental Health Game\Temp\importedAudioTempPreview
-        label: importedAudioTempPreview
+      - path: Mental Health Game\Temp\__Backupscenes
+        label: __Backupscenes
         level: 2
-        isFolder: 0
+        isFolder: 1
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
@@ -948,15 +2502,15 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Mental Health Game\Temp\importedAudioTempPreview
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-          projectPath: Temp\importedAudioTempPreview
+          path: 
+          fullPath: 
+          projectPath: 
           originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\importedAudioTempPreview 1
-        label: importedAudioTempPreview 1
-        level: 2
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Mental Health Game\Temp\__Backupscenes\0.backup
+        label: 0.backup
+        level: 3
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -966,86 +2520,9 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Mental Health Game\Temp\importedAudioTempPreview 1
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-            1
-          projectPath: Temp\importedAudioTempPreview 1
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\importedAudioTempPreview 2
-        label: importedAudioTempPreview 2
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\importedAudioTempPreview 2
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-            2
-          projectPath: Temp\importedAudioTempPreview 2
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\importedAudioTempPreview 3
-        label: importedAudioTempPreview 3
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\importedAudioTempPreview 3
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-            3
-          projectPath: Temp\importedAudioTempPreview 3
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\importedAudioTempPreview 4
-        label: importedAudioTempPreview 4
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\importedAudioTempPreview 4
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-            4
-          projectPath: Temp\importedAudioTempPreview 4
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\importedAudioTempPreview 5
-        label: importedAudioTempPreview 5
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\importedAudioTempPreview 5
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-            5
-          projectPath: Temp\importedAudioTempPreview 5
+          path: Mental Health Game\Temp\__Backupscenes\0.backup
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\__Backupscenes\0.backup
+          projectPath: Temp\__Backupscenes\0.backup
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -1067,8 +2544,8 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-082984179ed71d24f9d8213e65283c45
-        label: UnityTempFile-082984179ed71d24f9d8213e65283c45
+      - path: Mental Health Game\Temp\UnityTempFile-7f94ef921fff67845b3a4c429da2a3c2
+        label: UnityTempFile-7f94ef921fff67845b3a4c429da2a3c2
         level: 2
         isFolder: 0
         isContainer: 0
@@ -1079,14 +2556,14 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-082984179ed71d24f9d8213e65283c45
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-082984179ed71d24f9d8213e65283c45
-          projectPath: Temp\UnityTempFile-082984179ed71d24f9d8213e65283c45
+          path: Mental Health Game\Temp\UnityTempFile-7f94ef921fff67845b3a4c429da2a3c2
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-7f94ef921fff67845b3a4c429da2a3c2
+          projectPath: Temp\UnityTempFile-7f94ef921fff67845b3a4c429da2a3c2
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-2d83c78beb241b74aa0adfe696bde044
-        label: UnityTempFile-2d83c78beb241b74aa0adfe696bde044
+      - path: Mental Health Game\Temp\UnityTempFile-89fa8d47db9b42740a5e2f6f5f6de2ab
+        label: UnityTempFile-89fa8d47db9b42740a5e2f6f5f6de2ab
         level: 2
         isFolder: 0
         isContainer: 0
@@ -1097,14 +2574,14 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-2d83c78beb241b74aa0adfe696bde044
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-2d83c78beb241b74aa0adfe696bde044
-          projectPath: Temp\UnityTempFile-2d83c78beb241b74aa0adfe696bde044
+          path: Mental Health Game\Temp\UnityTempFile-89fa8d47db9b42740a5e2f6f5f6de2ab
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-89fa8d47db9b42740a5e2f6f5f6de2ab
+          projectPath: Temp\UnityTempFile-89fa8d47db9b42740a5e2f6f5f6de2ab
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-3cb0b0c6a7bf99e4fa0e45de4403d79a
-        label: UnityTempFile-3cb0b0c6a7bf99e4fa0e45de4403d79a
+      - path: Mental Health Game\Temp\UnityTempFile-9c62ae4bc9b60784daa30892646279c4
+        label: UnityTempFile-9c62ae4bc9b60784daa30892646279c4
         level: 2
         isFolder: 0
         isContainer: 0
@@ -1115,225 +2592,9 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-3cb0b0c6a7bf99e4fa0e45de4403d79a
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-3cb0b0c6a7bf99e4fa0e45de4403d79a
-          projectPath: Temp\UnityTempFile-3cb0b0c6a7bf99e4fa0e45de4403d79a
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-3da305ac09db2ef4ea247da2f5d9e849
-        label: UnityTempFile-3da305ac09db2ef4ea247da2f5d9e849
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-3da305ac09db2ef4ea247da2f5d9e849
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-3da305ac09db2ef4ea247da2f5d9e849
-          projectPath: Temp\UnityTempFile-3da305ac09db2ef4ea247da2f5d9e849
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-3dfb17ef02563a647b8d0187f0d47326
-        label: UnityTempFile-3dfb17ef02563a647b8d0187f0d47326
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-3dfb17ef02563a647b8d0187f0d47326
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-3dfb17ef02563a647b8d0187f0d47326
-          projectPath: Temp\UnityTempFile-3dfb17ef02563a647b8d0187f0d47326
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-4787e53f2db049646a5bb545950922fd
-        label: UnityTempFile-4787e53f2db049646a5bb545950922fd
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-4787e53f2db049646a5bb545950922fd
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4787e53f2db049646a5bb545950922fd
-          projectPath: Temp\UnityTempFile-4787e53f2db049646a5bb545950922fd
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-4797076c822a4254fb14bd176c6efa2d
-        label: UnityTempFile-4797076c822a4254fb14bd176c6efa2d
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-4797076c822a4254fb14bd176c6efa2d
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4797076c822a4254fb14bd176c6efa2d
-          projectPath: Temp\UnityTempFile-4797076c822a4254fb14bd176c6efa2d
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-4ff6c572b8806f641aae2050de2271cd
-        label: UnityTempFile-4ff6c572b8806f641aae2050de2271cd
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-4ff6c572b8806f641aae2050de2271cd
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4ff6c572b8806f641aae2050de2271cd
-          projectPath: Temp\UnityTempFile-4ff6c572b8806f641aae2050de2271cd
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-7518ae9241cf0a648a5ba54592899518
-        label: UnityTempFile-7518ae9241cf0a648a5ba54592899518
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-7518ae9241cf0a648a5ba54592899518
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-7518ae9241cf0a648a5ba54592899518
-          projectPath: Temp\UnityTempFile-7518ae9241cf0a648a5ba54592899518
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-9011ef397e105334e9a9ce52667f2d77
-        label: UnityTempFile-9011ef397e105334e9a9ce52667f2d77
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-9011ef397e105334e9a9ce52667f2d77
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-9011ef397e105334e9a9ce52667f2d77
-          projectPath: Temp\UnityTempFile-9011ef397e105334e9a9ce52667f2d77
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-99b736202600d4346b6cf4c7741df73f
-        label: UnityTempFile-99b736202600d4346b6cf4c7741df73f
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-99b736202600d4346b6cf4c7741df73f
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-99b736202600d4346b6cf4c7741df73f
-          projectPath: Temp\UnityTempFile-99b736202600d4346b6cf4c7741df73f
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-b4e038be87b16bb47bf4231845c98094
-        label: UnityTempFile-b4e038be87b16bb47bf4231845c98094
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-b4e038be87b16bb47bf4231845c98094
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-b4e038be87b16bb47bf4231845c98094
-          projectPath: Temp\UnityTempFile-b4e038be87b16bb47bf4231845c98094
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-bf155779f785d634c8fd358d6b50dd18
-        label: UnityTempFile-bf155779f785d634c8fd358d6b50dd18
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-bf155779f785d634c8fd358d6b50dd18
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-bf155779f785d634c8fd358d6b50dd18
-          projectPath: Temp\UnityTempFile-bf155779f785d634c8fd358d6b50dd18
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-cbabd18312fbd2147897f4a6e6d5984a
-        label: UnityTempFile-cbabd18312fbd2147897f4a6e6d5984a
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-cbabd18312fbd2147897f4a6e6d5984a
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-cbabd18312fbd2147897f4a6e6d5984a
-          projectPath: Temp\UnityTempFile-cbabd18312fbd2147897f4a6e6d5984a
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Mental Health Game\Temp\UnityTempFile-e363268cc27982f439ba239d0724c111
-        label: UnityTempFile-e363268cc27982f439ba239d0724c111
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Mental Health Game\Temp\UnityTempFile-e363268cc27982f439ba239d0724c111
-          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-e363268cc27982f439ba239d0724c111
-          projectPath: Temp\UnityTempFile-e363268cc27982f439ba239d0724c111
+          path: Mental Health Game\Temp\UnityTempFile-9c62ae4bc9b60784daa30892646279c4
+          fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-9c62ae4bc9b60784daa30892646279c4
+          projectPath: Temp\UnityTempFile-9c62ae4bc9b60784daa30892646279c4
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -1357,6 +2618,184 @@ MonoBehaviour:
           indexStatus: 0
           workTreeStatus: 0
     gitStatusEntries:
+    - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+        (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\2d
+        temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+      projectPath: Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+        (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\Assets\Scripts\BasicCharacter.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\BasicCharacter.cs
+      projectPath: Assets\Scripts\BasicCharacter.cs
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 5
+    - path: Mental Health Game\Assets\Scripts\BasicCharacter.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\BasicCharacter.cs.meta
+      projectPath: Assets\Scripts\BasicCharacter.cs.meta
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 5
+    - path: Mental Health Game\Assets\Scripts\Common.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common.meta
+      projectPath: Assets\Scripts\Common.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs
+      projectPath: Assets\Scripts\Common\BasicCharacter.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\BasicCharacter.cs.meta
+      projectPath: Assets\Scripts\Common\BasicCharacter.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs
+      projectPath: Assets\Scripts\Common\ColliderToolEditor.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs.meta
+      projectPath: Assets\Scripts\Common\ColliderToolEditor.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs
+      projectPath: Assets\Scripts\Common\EditableColliderTool.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs.meta
+      projectPath: Assets\Scripts\Common\EditableColliderTool.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\EditableShape.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableShape.cs
+      projectPath: Assets\Scripts\Common\EditableShape.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\EditableShape.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableShape.cs.meta
+      projectPath: Assets\Scripts\Common\EditableShape.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\ResetScene.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ResetScene.cs
+      projectPath: Assets\Scripts\Common\ResetScene.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\ResetScene.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ResetScene.cs.meta
+      projectPath: Assets\Scripts\Common\ResetScene.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs
+      projectPath: Assets\Scripts\Common\ShapeToolEditor.cs
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs.meta
+      projectPath: Assets\Scripts\Common\ShapeToolEditor.cs.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Assets\Test Scene.unity
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Test
+        Scene.unity
+      projectPath: Assets\Test Scene.unity
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\Library\ArtifactDB
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\Library\Artifacts\01\010eca5d2bbf050c32fd2ff2819449e6
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\01\010eca5d2bbf050c32fd2ff2819449e6
+      projectPath: Library\Artifacts\01\010eca5d2bbf050c32fd2ff2819449e6
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Library\Artifacts\1a\1ad875bd04cc84251981df71c181d4cf
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\1a\1ad875bd04cc84251981df71c181d4cf
+      projectPath: Library\Artifacts\1a\1ad875bd04cc84251981df71c181d4cf
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 5
+    - path: Mental Health Game\Library\Artifacts\34\347dd01a3f3193219561365dc00d0d92
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\34\347dd01a3f3193219561365dc00d0d92
+      projectPath: Library\Artifacts\34\347dd01a3f3193219561365dc00d0d92
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Library\Artifacts\38\3893bccaa7d4ff6739b76834909c8511
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\38\3893bccaa7d4ff6739b76834909c8511
+      projectPath: Library\Artifacts\38\3893bccaa7d4ff6739b76834909c8511
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Library\Artifacts\47\47eb7b1fe4b42be9ed46758360be9cf8
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\47\47eb7b1fe4b42be9ed46758360be9cf8
+      projectPath: Library\Artifacts\47\47eb7b1fe4b42be9ed46758360be9cf8
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Library\Artifacts\5d\5d0a9243b79d0997a1c9b8284b8c86bb
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\5d\5d0a9243b79d0997a1c9b8284b8c86bb
+      projectPath: Library\Artifacts\5d\5d0a9243b79d0997a1c9b8284b8c86bb
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+      projectPath: Library\Artifacts\d2\d2fc302d0d7118431482ab603befcfaf
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 5
+    - path: Mental Health Game\Library\Artifacts\ea\eac20e5e753bb0968152ea95023600e5
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\ea\eac20e5e753bb0968152ea95023600e5
+      projectPath: Library\Artifacts\ea\eac20e5e753bb0968152ea95023600e5
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Mental Health Game\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\Library\EditorInstance.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\Library\expandedItems
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Mental Health Game\Library\gfu\cache\branches.yaml
       fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\branches.yaml
       projectPath: Library\gfu\cache\branches.yaml
@@ -1393,9 +2832,39 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
+    - path: Mental Health Game\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Mental Health Game\Library\SourceAssetDB
       fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\SourceAssetDB
       projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      projectPath: Library\StateCache\SceneView\428282-mainStage.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -1405,44 +2874,15 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Mental Health Game\Temp\importedAudioTempPreview
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-      projectPath: Temp\importedAudioTempPreview
+    - path: Mental Health Game\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
       originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\importedAudioTempPreview 1
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-        1
-      projectPath: Temp\importedAudioTempPreview 1
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\importedAudioTempPreview 2
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-        2
-      projectPath: Temp\importedAudioTempPreview 2
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\importedAudioTempPreview 3
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-        3
-      projectPath: Temp\importedAudioTempPreview 3
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\importedAudioTempPreview 4
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-        4
-      projectPath: Temp\importedAudioTempPreview 4
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\importedAudioTempPreview 5
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\importedAudioTempPreview
-        5
-      projectPath: Temp\importedAudioTempPreview 5
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Mental Health Game\Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
@@ -1452,105 +2892,33 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-082984179ed71d24f9d8213e65283c45
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-082984179ed71d24f9d8213e65283c45
-      projectPath: Temp\UnityTempFile-082984179ed71d24f9d8213e65283c45
+    - path: Mental Health Game\Temp\UnityTempFile-7f94ef921fff67845b3a4c429da2a3c2
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-7f94ef921fff67845b3a4c429da2a3c2
+      projectPath: Temp\UnityTempFile-7f94ef921fff67845b3a4c429da2a3c2
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-2d83c78beb241b74aa0adfe696bde044
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-2d83c78beb241b74aa0adfe696bde044
-      projectPath: Temp\UnityTempFile-2d83c78beb241b74aa0adfe696bde044
+    - path: Mental Health Game\Temp\UnityTempFile-89fa8d47db9b42740a5e2f6f5f6de2ab
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-89fa8d47db9b42740a5e2f6f5f6de2ab
+      projectPath: Temp\UnityTempFile-89fa8d47db9b42740a5e2f6f5f6de2ab
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-3cb0b0c6a7bf99e4fa0e45de4403d79a
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-3cb0b0c6a7bf99e4fa0e45de4403d79a
-      projectPath: Temp\UnityTempFile-3cb0b0c6a7bf99e4fa0e45de4403d79a
+    - path: Mental Health Game\Temp\UnityTempFile-9c62ae4bc9b60784daa30892646279c4
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-9c62ae4bc9b60784daa30892646279c4
+      projectPath: Temp\UnityTempFile-9c62ae4bc9b60784daa30892646279c4
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-3da305ac09db2ef4ea247da2f5d9e849
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-3da305ac09db2ef4ea247da2f5d9e849
-      projectPath: Temp\UnityTempFile-3da305ac09db2ef4ea247da2f5d9e849
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-3dfb17ef02563a647b8d0187f0d47326
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-3dfb17ef02563a647b8d0187f0d47326
-      projectPath: Temp\UnityTempFile-3dfb17ef02563a647b8d0187f0d47326
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-4787e53f2db049646a5bb545950922fd
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4787e53f2db049646a5bb545950922fd
-      projectPath: Temp\UnityTempFile-4787e53f2db049646a5bb545950922fd
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-4797076c822a4254fb14bd176c6efa2d
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4797076c822a4254fb14bd176c6efa2d
-      projectPath: Temp\UnityTempFile-4797076c822a4254fb14bd176c6efa2d
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-4ff6c572b8806f641aae2050de2271cd
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4ff6c572b8806f641aae2050de2271cd
-      projectPath: Temp\UnityTempFile-4ff6c572b8806f641aae2050de2271cd
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-7518ae9241cf0a648a5ba54592899518
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-7518ae9241cf0a648a5ba54592899518
-      projectPath: Temp\UnityTempFile-7518ae9241cf0a648a5ba54592899518
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-9011ef397e105334e9a9ce52667f2d77
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-9011ef397e105334e9a9ce52667f2d77
-      projectPath: Temp\UnityTempFile-9011ef397e105334e9a9ce52667f2d77
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-99b736202600d4346b6cf4c7741df73f
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-99b736202600d4346b6cf4c7741df73f
-      projectPath: Temp\UnityTempFile-99b736202600d4346b6cf4c7741df73f
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-b4e038be87b16bb47bf4231845c98094
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-b4e038be87b16bb47bf4231845c98094
-      projectPath: Temp\UnityTempFile-b4e038be87b16bb47bf4231845c98094
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-bf155779f785d634c8fd358d6b50dd18
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-bf155779f785d634c8fd358d6b50dd18
-      projectPath: Temp\UnityTempFile-bf155779f785d634c8fd358d6b50dd18
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-cbabd18312fbd2147897f4a6e6d5984a
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-cbabd18312fbd2147897f4a6e6d5984a
-      projectPath: Temp\UnityTempFile-cbabd18312fbd2147897f4a6e6d5984a
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Mental Health Game\Temp\UnityTempFile-e363268cc27982f439ba239d0724c111
-      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-e363268cc27982f439ba239d0724c111
-      projectPath: Temp\UnityTempFile-e363268cc27982f439ba239d0724c111
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    changedFilesText: 30 changed files
+    changedFilesText: 48 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2020-01-31T20:42:34.513-08:00
+      updatedTimeString: 2020-02-01T09:55:55.845-08:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2020-01-31T20:42:53.940-08:00
+      updatedTimeString: 2020-02-01T10:13:54.897-08:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2020-01-31T20:42:23.901-08:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -62237,13 +63605,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2020-01-31T18:54:16.270-08:00
+    updatedTimeString: 2020-02-01T09:18:47.521-08:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2020-01-31T20:38:57.675-08:00
+    updatedTimeString: 2020-02-01T09:18:49.081-08:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2020-01-31T20:38:57.604-08:00
+    updatedTimeString: 2020-02-01T09:47:56.321-08:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -62289,9 +63657,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 513.60004
+    y: 477.6
     width: 1093
-    height: 270
+    height: 306
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -62306,20 +63674,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/2d temp assets/generic-rpg-pack_v0.3_(alpha-release)_vacaroxa (1)/rpg-pack/chars
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/2d temp assets/generic-rpg-pack_v0.3_(alpha-release)_vacaroxa (1)/rpg-pack/chars
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 26350000
-    m_LastClickedID: 13606
-    m_ExpandedIDs: 00000000f0340000f2340000f4340000f6340000f834000000ca9a3b
+    m_SelectedIDs: 0e350000
+    m_LastClickedID: 13582
+    m_ExpandedIDs: 00000000083500000a3500000c3500000e35000010350000123500001435000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -62347,7 +63715,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f0340000f2340000f4340000f6340000f8340000
+    m_ExpandedIDs: 00000000083500000a3500000c3500000e350000103500001235000014350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -62391,7 +63759,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 3}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -62402,7 +63770,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 115
+  m_DirectoriesAreaWidth: 197
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -62465,14 +63833,14 @@ MonoBehaviour:
     x: 0
     y: 73.6
     width: 321
-    height: 419
+    height: 383
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 98340000
-      m_LastClickedID: 13464
-      m_ExpandedIDs: 6efbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 6efbffff94340000ac340000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -62520,7 +63888,7 @@ MonoBehaviour:
     x: 322.4
     y: 73.6
     width: 770
-    height: 419
+    height: 383
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 42828273a0ca6044d9bf69a0a3bdfb44
@@ -62532,9 +63900,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.7605544, y: 1.5429313, z: -12.146383}
+    m_Target: {x: 0.11145918, y: 1.6177344, z: -10.959419}
     speed: 2
-    m_Value: {x: 1.7605544, y: 1.5429313, z: -12.146383}
+    m_Value: {x: 0.11145918, y: 1.6177344, z: -10.959419}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -62580,13 +63948,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.22778793, y: -0.0067212707, z: 0.0015723285, w: -0.9736859}
+    m_Target: {x: 0.32942936, y: 0.0014163135, z: -0.000494202, w: 0.9441797}
     speed: 2
-    m_Value: {x: -0.227788, y: -0.006721273, z: 0.0015723291, w: -0.9736863}
+    m_Value: {x: 0.32942915, y: 0.0014163126, z: -0.0004942017, w: 0.9441792}
   m_Size:
-    m_Target: 4.619354
+    m_Target: 7.620526
     speed: 2
-    m_Value: 4.619354
+    m_Value: 7.620526
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -62635,7 +64003,7 @@ MonoBehaviour:
     x: 322.4
     y: 73.6
     width: 770
-    height: 419
+    height: 383
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewsNames: []
   m_SerializedViewsValues: []
@@ -62643,7 +64011,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 770, y: 398}
+  m_TargetSize: {x: 770, y: 362}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -62659,8 +64027,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -308
     m_HBaseRangeMax: 308
-    m_VBaseRangeMin: -159.2
-    m_VBaseRangeMax: 159.2
+    m_VBaseRangeMin: -144.8
+    m_VBaseRangeMax: 144.8
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -62679,9 +64047,9 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 770
-      height: 398
+      height: 362
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 385, y: 199}
+    m_Translation: {x: 385, y: 181}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -62689,12 +64057,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -385
-      y: -199
+      y: -181
       width: 770
-      height: 398
+      height: 362
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 962.5, y: 523.75}
+  m_LastWindowPixelSize: {x: 962.5, y: 478.75}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
