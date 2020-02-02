@@ -13,18 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-02T09:32:14.887-08:00
+  lastUpdatedAtString: 2020-02-02T09:32:47.076-08:00
   initializedAtString: 2020-02-02T09:30:41.061-08:00
   entries:
   - path: Mental Health Game\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Mental Health Game\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
