@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-02-01T11:41:25.440-08:00
-  initializedAtString: 2020-02-01T11:41:25.440-08:00
+  lastUpdatedAtString: 2020-01-31T18:44:21.903-08:00
+  initializedAtString: 2020-01-31T18:42:12.794-08:00
   currentGitRemote:
     name: origin
     url: https://github.com/enganeer13/MHGame.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: C_Programming-Branch
+    tracking: origin/C_Programming-Branch
   currentConfigBranch:
-    name: master
+    name: C_Programming-Branch
     remote:
       name: origin
       url: https://github.com/enganeer13/MHGame.git
-    trackingBranch: master
+    trackingBranch: C_Programming-Branch
   currentConfigRemote:
     name: origin
     url: https://github.com/enganeer13/MHGame.git
