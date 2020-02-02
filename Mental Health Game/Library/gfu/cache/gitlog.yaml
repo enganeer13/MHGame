@@ -13,9 +13,739 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-01T16:07:04.944-08:00
+  lastUpdatedAtString: 2020-02-01T19:29:23.816-08:00
   initializedAtString: 2020-02-01T11:30:23.831-08:00
   log:
+  - commitID: 071ea2c185e2ebee65ed5f0f651b3a7134e4f6d5
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: weeee
+    description: weeee
+    timeString: 2020-02-01T19:05:59.000-08:00
+    commitTimeString: 2020-02-01T19:05:59.000-08:00
+    changes:
+    - path: Mental Health Game\Temp\UnityTempFile-174c5db24a16e324daa62a45b42dc61f
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-174c5db24a16e324daa62a45b42dc61f
+      projectPath: Temp\UnityTempFile-174c5db24a16e324daa62a45b42dc61f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Temp\UnityTempFile-2f9d4dd2776057746bf92476e3b50b86
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-2f9d4dd2776057746bf92476e3b50b86
+      projectPath: Temp\UnityTempFile-2f9d4dd2776057746bf92476e3b50b86
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Temp\UnityTempFile-615e1828e8f2fd64a8a6574cf123d582
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-615e1828e8f2fd64a8a6574cf123d582
+      projectPath: Temp\UnityTempFile-615e1828e8f2fd64a8a6574cf123d582
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Temp\UnityTempFile-63a9fa1fb03f7e14a8823c4618229405
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-63a9fa1fb03f7e14a8823c4618229405
+      projectPath: Temp\UnityTempFile-63a9fa1fb03f7e14a8823c4618229405
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: bb9734ac6cd2901e97fa7460a596e9dbf4ac26c2
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: weweee
+    description: weeeee
+    timeString: 2020-02-01T19:05:40.000-08:00
+    commitTimeString: 2020-02-01T19:05:40.000-08:00
+    changes:
+    - path: Mental Health Game\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\SourceAssetDB
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      projectPath: Library\StateCache\SceneView\428282-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Packages\manifest.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: febafff6db0c3341f6a3a4a377859100a9eed69b
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: .
+    description: .
+    timeString: 2020-02-01T19:05:31.000-08:00
+    commitTimeString: 2020-02-01T19:05:31.000-08:00
+    changes:
+    - path: Mental Health Game\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: b99f73d0139889d8c34a4c8bf5d0662d02864096
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: t
+    description: t
+    timeString: 2020-02-01T19:05:26.000-08:00
+    commitTimeString: 2020-02-01T19:05:26.000-08:00
+    changes:
+    - path: Mental Health Game\Library\Artifacts\ca\cad34dc5525ab7b3a6b53fffe1d9947b
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\ca\cad34dc5525ab7b3a6b53fffe1d9947b
+      projectPath: Library\Artifacts\ca\cad34dc5525ab7b3a6b53fffe1d9947b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\cb\cb44cd9a496d22a4a374dd48ad57e0cf
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\cb\cb44cd9a496d22a4a374dd48ad57e0cf
+      projectPath: Library\Artifacts\cb\cb44cd9a496d22a4a374dd48ad57e0cf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\df\dfda16d911f99f31d2ed331a4a92f62d
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\df\dfda16d911f99f31d2ed331a4a92f62d
+      projectPath: Library\Artifacts\df\dfda16d911f99f31d2ed331a4a92f62d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\e0\e04e90a2949386fed6183dc0b41a1eea
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\e0\e04e90a2949386fed6183dc0b41a1eea
+      projectPath: Library\Artifacts\e0\e04e90a2949386fed6183dc0b41a1eea
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\e6\e62c729d561f61f6d82c9b415546315a
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\e6\e62c729d561f61f6d82c9b415546315a
+      projectPath: Library\Artifacts\e6\e62c729d561f61f6d82c9b415546315a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\e9\e9021e23dcb5c6d6510d315d48d3c84c
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\e9\e9021e23dcb5c6d6510d315d48d3c84c
+      projectPath: Library\Artifacts\e9\e9021e23dcb5c6d6510d315d48d3c84c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\eb\eb606089e68324488f0a3ffb0119ddb4
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\eb\eb606089e68324488f0a3ffb0119ddb4
+      projectPath: Library\Artifacts\eb\eb606089e68324488f0a3ffb0119ddb4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\fe\fed3aa1de0a91eb35cfbfd1b9650cf7f
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\fe\fed3aa1de0a91eb35cfbfd1b9650cf7f
+      projectPath: Library\Artifacts\fe\fed3aa1de0a91eb35cfbfd1b9650cf7f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 2841d7e18d02c5c7e536b0450d3229e7c4059696
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: mmmmmmmmmmmmmmmm
+    description: mmmmmmmmmmm
+    timeString: 2020-02-01T19:05:17.000-08:00
+    commitTimeString: 2020-02-01T19:05:17.000-08:00
+    changes:
+    - path: Mental Health Game\Library\Artifacts\6b\6bb7eb35a3d005e8f2040b2fbd359f63
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\6b\6bb7eb35a3d005e8f2040b2fbd359f63
+      projectPath: Library\Artifacts\6b\6bb7eb35a3d005e8f2040b2fbd359f63
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\6f\6f786214e702d30f1ab00fd3342d77b5
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\6f\6f786214e702d30f1ab00fd3342d77b5
+      projectPath: Library\Artifacts\6f\6f786214e702d30f1ab00fd3342d77b5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\74\7453293bb58bb85a2a5b0b29a093da2e
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\74\7453293bb58bb85a2a5b0b29a093da2e
+      projectPath: Library\Artifacts\74\7453293bb58bb85a2a5b0b29a093da2e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\8d\8d1b8eaba95e836c1a0f5146687c0f16
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\8d\8d1b8eaba95e836c1a0f5146687c0f16
+      projectPath: Library\Artifacts\8d\8d1b8eaba95e836c1a0f5146687c0f16
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\93\93ff27ba919ac951ef173e2dcda8c13d
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\93\93ff27ba919ac951ef173e2dcda8c13d
+      projectPath: Library\Artifacts\93\93ff27ba919ac951ef173e2dcda8c13d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\aa\aa494361c73dd4997a2f92789f198ec2
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\aa\aa494361c73dd4997a2f92789f198ec2
+      projectPath: Library\Artifacts\aa\aa494361c73dd4997a2f92789f198ec2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\b3\b3d740e3bede8b8ecf699780eced2075
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\b3\b3d740e3bede8b8ecf699780eced2075
+      projectPath: Library\Artifacts\b3\b3d740e3bede8b8ecf699780eced2075
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\b5\b56542faa80067f869c1d8d14c56df3f
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\b5\b56542faa80067f869c1d8d14c56df3f
+      projectPath: Library\Artifacts\b5\b56542faa80067f869c1d8d14c56df3f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\ca\ca3a4eea6af025cde973424e214bb068
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\ca\ca3a4eea6af025cde973424e214bb068
+      projectPath: Library\Artifacts\ca\ca3a4eea6af025cde973424e214bb068
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: f09c0356bca88ae560f548cddf874aebb56a98ef
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: w
+    description: w
+    timeString: 2020-02-01T19:05:04.000-08:00
+    commitTimeString: 2020-02-01T19:05:04.000-08:00
+    changes:
+    - path: Mental Health Game\Library\Artifacts\3a\3abb266893dfa860a1e86142134a14ed
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\3a\3abb266893dfa860a1e86142134a14ed
+      projectPath: Library\Artifacts\3a\3abb266893dfa860a1e86142134a14ed
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\3d\3d7a99e6160687bea780dfeb937a586e
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\3d\3d7a99e6160687bea780dfeb937a586e
+      projectPath: Library\Artifacts\3d\3d7a99e6160687bea780dfeb937a586e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\44\44e272216bc615e9fef49cc4d8757412
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\44\44e272216bc615e9fef49cc4d8757412
+      projectPath: Library\Artifacts\44\44e272216bc615e9fef49cc4d8757412
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\4d\4df9757f85e303514afd7414c1d875f1
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\4d\4df9757f85e303514afd7414c1d875f1
+      projectPath: Library\Artifacts\4d\4df9757f85e303514afd7414c1d875f1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\4e\4e9fcddf047177cb428bf39b7edc640d
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\4e\4e9fcddf047177cb428bf39b7edc640d
+      projectPath: Library\Artifacts\4e\4e9fcddf047177cb428bf39b7edc640d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\53\53cd35ac68c6bb8550a2d42c6bbba375
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\53\53cd35ac68c6bb8550a2d42c6bbba375
+      projectPath: Library\Artifacts\53\53cd35ac68c6bb8550a2d42c6bbba375
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\53\53ed39186312569fd2469a99d4e2e596
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\53\53ed39186312569fd2469a99d4e2e596
+      projectPath: Library\Artifacts\53\53ed39186312569fd2469a99d4e2e596
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\54\5487d497116a3604599a9c720ef93663
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\54\5487d497116a3604599a9c720ef93663
+      projectPath: Library\Artifacts\54\5487d497116a3604599a9c720ef93663
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 01dea1f25a108cf7a7ce625b0b21807ad9dbaec8
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: q
+    description: q
+    timeString: 2020-02-01T19:04:56.000-08:00
+    commitTimeString: 2020-02-01T19:04:56.000-08:00
+    changes:
+    - path: Mental Health Game\Library\Artifacts\0c\0cf6d3ecc5179cffd778256f07543342
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\0c\0cf6d3ecc5179cffd778256f07543342
+      projectPath: Library\Artifacts\0c\0cf6d3ecc5179cffd778256f07543342
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\0e\0ef9767579d07394acf600667be3fe40
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\0e\0ef9767579d07394acf600667be3fe40
+      projectPath: Library\Artifacts\0e\0ef9767579d07394acf600667be3fe40
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\12\1213073436b8c1448d8e4032a2013031
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\12\1213073436b8c1448d8e4032a2013031
+      projectPath: Library\Artifacts\12\1213073436b8c1448d8e4032a2013031
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\1c\1c9532f83b1eac9725287879a9767789
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\1c\1c9532f83b1eac9725287879a9767789
+      projectPath: Library\Artifacts\1c\1c9532f83b1eac9725287879a9767789
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\24\24ef1dfc5cc41380d00fd89661e356ee
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\24\24ef1dfc5cc41380d00fd89661e356ee
+      projectPath: Library\Artifacts\24\24ef1dfc5cc41380d00fd89661e356ee
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\26\26f1afc89a62eb4d644068438c2db069
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\26\26f1afc89a62eb4d644068438c2db069
+      projectPath: Library\Artifacts\26\26f1afc89a62eb4d644068438c2db069
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\2f\2f06e80ff546cdcebfe01feaf7a01625
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\2f\2f06e80ff546cdcebfe01feaf7a01625
+      projectPath: Library\Artifacts\2f\2f06e80ff546cdcebfe01feaf7a01625
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 412b53f7199a82ddaffa00d4c0a9b647cd4bc041
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: .
+    description: .
+    timeString: 2020-02-01T19:04:46.000-08:00
+    commitTimeString: 2020-02-01T19:04:46.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\Scripts\Inventory.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Inventory.cs
+      projectPath: Assets\Scripts\Inventory.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Inventory.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Inventory.cs.meta
+      projectPath: Assets\Scripts\Inventory.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Pickup.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Pickup.cs
+      projectPath: Assets\Scripts\Pickup.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Pickup.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Pickup.cs.meta
+      projectPath: Assets\Scripts\Pickup.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Test Scene.unity
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Test
+        Scene.unity
+      projectPath: Assets\Test Scene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\ArtifactDB
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 9cbe0ec079a9c5181195e55146d80ba5ae4ab0a2
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: .
+    description: .
+    timeString: 2020-02-01T19:04:37.000-08:00
+    commitTimeString: 2020-02-01T19:04:37.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\Scripts\Common\EditableShape.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableShape.cs.meta
+      projectPath: Assets\Scripts\Common\EditableShape.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Common\ResetScene.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ResetScene.cs
+      projectPath: Assets\Scripts\Common\ResetScene.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Common\ResetScene.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ResetScene.cs.meta
+      projectPath: Assets\Scripts\Common\ResetScene.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs
+      projectPath: Assets\Scripts\Common\ShapeToolEditor.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ShapeToolEditor.cs.meta
+      projectPath: Assets\Scripts\Common\ShapeToolEditor.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 8038fa64addb5fbb061e2da3c0c71093c72493b8
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: .
+    description: .
+    timeString: 2020-02-01T19:04:30.000-08:00
+    commitTimeString: 2020-02-01T19:04:30.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs
+      projectPath: Assets\Scripts\Common\ColliderToolEditor.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\ColliderToolEditor.cs.meta
+      projectPath: Assets\Scripts\Common\ColliderToolEditor.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs
+      projectPath: Assets\Scripts\Common\EditableColliderTool.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableColliderTool.cs.meta
+      projectPath: Assets\Scripts\Common\EditableColliderTool.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Common\EditableShape.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Common\EditableShape.cs
+      projectPath: Assets\Scripts\Common\EditableShape.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: af12874f3077b9d151e42a04c089a89604be68bc
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: .
+    description: .
+    timeString: 2020-02-01T19:04:22.000-08:00
+    commitTimeString: 2020-02-01T19:04:22.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\Scripts\Camera\CameraFollow.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Camera\CameraFollow.cs
+      projectPath: Assets\Scripts\Camera\CameraFollow.cs
+      originalPath: Mental Health Game\Assets\CameraFollow.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Camera\CameraFollow.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Camera\CameraFollow.cs.meta
+      projectPath: Assets\Scripts\Camera\CameraFollow.cs.meta
+      originalPath: Mental Health Game\Assets\CameraFollow.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+  - commitID: 145a9c513d44037ff531275976309c9d8e8e00c0
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: woo
+    description: yay?
+    timeString: 2020-02-01T19:04:14.000-08:00
+    commitTimeString: 2020-02-01T19:04:14.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\Art\Temp Sprites\player02.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\player02.psd.meta
+      projectPath: Assets\Art\Temp Sprites\player02.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\shadow.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\shadow.psd
+      projectPath: Assets\Art\Temp Sprites\shadow.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\shadow.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\shadow.psd.meta
+      projectPath: Assets\Art\Temp Sprites\shadow.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\tree.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\tree.psd
+      projectPath: Assets\Art\Temp Sprites\tree.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\tree.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\tree.psd.meta
+      projectPath: Assets\Art\Temp Sprites\tree.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 112a59bb88285ac30fcb86236fcc0d5e2c9ebb11
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: yay
+    description: wooo
+    timeString: 2020-02-01T19:04:03.000-08:00
+    commitTimeString: 2020-02-01T19:04:03.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\Art\Temp Sprites\cross.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\cross.psd
+      projectPath: Assets\Art\Temp Sprites\cross.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\cross.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\cross.psd.meta
+      projectPath: Assets\Art\Temp Sprites\cross.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\grass.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\grass.psd
+      projectPath: Assets\Art\Temp Sprites\grass.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\grass.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\grass.psd.meta
+      projectPath: Assets\Art\Temp Sprites\grass.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\heart.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\heart.psd
+      projectPath: Assets\Art\Temp Sprites\heart.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\heart.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\heart.psd.meta
+      projectPath: Assets\Art\Temp Sprites\heart.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\inventoryIcons.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\inventoryIcons.psd
+      projectPath: Assets\Art\Temp Sprites\inventoryIcons.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\inventoryIcons.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\inventoryIcons.psd.meta
+      projectPath: Assets\Art\Temp Sprites\inventoryIcons.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\player02.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\player02.psd
+      projectPath: Assets\Art\Temp Sprites\player02.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 3e323139fae03a3f336aced4dd4ec5887fcfdce5
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: stuff
+    description: inventory
+    timeString: 2020-02-01T19:03:50.000-08:00
+    commitTimeString: 2020-02-01T19:03:50.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\Art\Inventory\Vase_Piece_2.png
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Inventory\Vase_Piece_2.png
+      projectPath: Assets\Art\Inventory\Vase_Piece_2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Inventory\Vase_Piece_2.png.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Inventory\Vase_Piece_2.png.meta
+      projectPath: Assets\Art\Inventory\Vase_Piece_2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites.meta
+      projectPath: Assets\Art\Temp Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\bag.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\bag.psd
+      projectPath: Assets\Art\Temp Sprites\bag.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\bag.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\bag.psd.meta
+      projectPath: Assets\Art\Temp Sprites\bag.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\border02.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\border02.psd
+      projectPath: Assets\Art\Temp Sprites\border02.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\border02.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\border02.psd.meta
+      projectPath: Assets\Art\Temp Sprites\border02.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\broder.psd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\broder.psd
+      projectPath: Assets\Art\Temp Sprites\broder.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Temp Sprites\broder.psd.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Temp
+        Sprites\broder.psd.meta
+      projectPath: Assets\Art\Temp Sprites\broder.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 3697f9b1de936729c09538f8ccec235f4d62bf98
     mergeA: 
     mergeB: 
