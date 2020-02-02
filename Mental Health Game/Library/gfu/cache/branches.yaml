@@ -13,11 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-02-01T16:06:59.137-08:00
-  initializedAtString: 2020-02-01T11:30:22.302-08:00
+  lastUpdatedAtString: 2020-02-02T09:31:08.739-08:00
+  initializedAtString: 2020-02-02T09:31:08.685-08:00
   localBranches:
+  - name: celine-branch
+    tracking: origin/celine-branch
   - name: C_Programming-Branch
     tracking: origin/C_Programming-Branch
+  - name: Madi's-Branch
+    tracking: origin/Madi's-Branch
+  - name: master
+    tracking: origin/master
+  - name: new_puzzle_room
+    tracking: origin/new_puzzle_room
+  - name: Test-Branch
+    tracking: origin/Test-Branch
   remoteBranches:
   - name: origin/celine-branch
     tracking: '[None]'
@@ -27,7 +37,11 @@ MonoBehaviour:
     tracking: '[None]'
   - name: origin/Idk
     tracking: '[None]'
+  - name: origin/Madi's-Branch
+    tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/new_puzzle_room
     tracking: '[None]'
   remotes:
   - name: origin
@@ -39,13 +53,43 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - celine-branch
     - C_Programming-Branch
+    - Madi's-Branch
+    - master
+    - new_puzzle_room
+    - Test-Branch
     values:
+    - name: celine-branch
+      remote:
+        name: origin
+        url: https://github.com/enganeer13/MHGame.git
+      trackingBranch: celine-branch
     - name: C_Programming-Branch
       remote:
         name: origin
         url: https://github.com/enganeer13/MHGame.git
       trackingBranch: C_Programming-Branch
+    - name: Madi's-Branch
+      remote:
+        name: origin
+        url: https://github.com/enganeer13/MHGame.git
+      trackingBranch: Madi's-Branch
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/enganeer13/MHGame.git
+      trackingBranch: master
+    - name: new_puzzle_room
+      remote:
+        name: origin
+        url: https://github.com/enganeer13/MHGame.git
+      trackingBranch: new_puzzle_room
+    - name: Test-Branch
+      remote:
+        name: origin
+        url: https://github.com/enganeer13/MHGame.git
+      trackingBranch: Test-Branch
   remoteConfigBranches:
     keys:
     - origin
@@ -55,7 +99,9 @@ MonoBehaviour:
       - C_Programming-Branch
       - HEAD
       - Idk
+      - Madi's-Branch
       - master
+      - new_puzzle_room
     subKeyValues:
     - Values:
       - name: celine-branch
@@ -78,7 +124,17 @@ MonoBehaviour:
           name: origin
           url: https://github.com/enganeer13/MHGame.git
         trackingBranch: 
+      - name: Madi's-Branch
+        remote:
+          name: origin
+          url: https://github.com/enganeer13/MHGame.git
+        trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/enganeer13/MHGame.git
+        trackingBranch: 
+      - name: new_puzzle_room
         remote:
           name: origin
           url: https://github.com/enganeer13/MHGame.git
