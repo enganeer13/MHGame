@@ -13,9 +13,136 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-01T19:29:23.816-08:00
+  lastUpdatedAtString: 2020-02-01T19:35:18.802-08:00
   initializedAtString: 2020-02-01T11:30:23.831-08:00
   log:
+  - commitID: 9315b3769443d45d029c20e75893c9b21a48d7dc
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: Inventory
+    description: Inventory
+    timeString: 2020-02-01T19:35:16.000-08:00
+    commitTimeString: 2020-02-01T19:35:16.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\Art\Inventory\Materials.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Inventory\Materials.meta
+      projectPath: Assets\Art\Inventory\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Inventory\Materials\Vase_piece_1.mat
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Inventory\Materials\Vase_piece_1.mat
+      projectPath: Assets\Art\Inventory\Materials\Vase_piece_1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Art\Inventory\Materials\Vase_piece_1.mat.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\Inventory\Materials\Vase_piece_1.mat.meta
+      projectPath: Assets\Art\Inventory\Materials\Vase_piece_1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Pickup.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Pickup.cs
+      projectPath: Assets\Scripts\Pickup.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Test Scene.unity
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Test
+        Scene.unity
+      projectPath: Assets\Test Scene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\ArtifactDB
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\3a\3a3aae96e81faee3306a25b5a2c03be3
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\3a\3a3aae96e81faee3306a25b5a2c03be3
+      projectPath: Library\Artifacts\3a\3a3aae96e81faee3306a25b5a2c03be3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\fe\fe09367607b4651f5c7b0b8eb494dfdd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\fe\fe09367607b4651f5c7b0b8eb494dfdd
+      projectPath: Library\Artifacts\fe\fe09367607b4651f5c7b0b8eb494dfdd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\SourceAssetDB
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      projectPath: Library\StateCache\SceneView\428282-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 071ea2c185e2ebee65ed5f0f651b3a7134e4f6d5
     mergeA: 
     mergeB: 
