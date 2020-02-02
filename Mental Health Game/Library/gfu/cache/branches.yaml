@@ -13,15 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-02-01T10:24:19.232-08:00
-  initializedAtString: 2020-02-01T10:23:36.187-08:00
+  lastUpdatedAtString: 2020-02-01T15:41:05.115-08:00
+  initializedAtString: 2020-02-01T11:30:22.302-08:00
   localBranches:
   - name: C_Programming-Branch
     tracking: origin/C_Programming-Branch
   remoteBranches:
+  - name: origin/celine-branch
+    tracking: '[None]'
   - name: origin/C_Programming-Branch
     tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Idk
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
@@ -47,17 +51,29 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - celine-branch
       - C_Programming-Branch
       - HEAD
+      - Idk
       - master
     subKeyValues:
     - Values:
+      - name: celine-branch
+        remote:
+          name: origin
+          url: https://github.com/enganeer13/MHGame.git
+        trackingBranch: 
       - name: C_Programming-Branch
         remote:
           name: origin
           url: https://github.com/enganeer13/MHGame.git
         trackingBranch: 
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/enganeer13/MHGame.git
+        trackingBranch: 
+      - name: Idk
         remote:
           name: origin
           url: https://github.com/enganeer13/MHGame.git

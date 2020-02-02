@@ -13,9 +13,147 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-01T10:24:20.278-08:00
-  initializedAtString: 2020-02-01T10:23:37.629-08:00
+  lastUpdatedAtString: 2020-02-01T11:53:44.808-08:00
+  initializedAtString: 2020-02-01T11:30:23.831-08:00
   log:
+  - commitID: e7a4275570556e7ddd470d848e3b46337261c97b
+    mergeA: 
+    mergeB: 
+    authorName: enganeer13
+    authorEmail: zacharydeigert@gmail.com
+    commitEmail: zacharydeigert@gmail.com
+    commitName: enganeer13
+    summary: Camera Follow
+    description: Follow the player
+    timeString: 2020-02-01T11:30:21.000-08:00
+    commitTimeString: 2020-02-01T11:30:21.000-08:00
+    changes:
+    - path: Mental Health Game\Assets\CameraFollow.cs
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\CameraFollow.cs
+      projectPath: Assets\CameraFollow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\CameraFollow.cs.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\CameraFollow.cs.meta
+      projectPath: Assets\CameraFollow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Assets\Scripts\Camera.meta
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Camera.meta
+      projectPath: Assets\Scripts\Camera.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\ArtifactDB
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\06\06f4b946964dbe3d35d135ec3e36ddee
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\06\06f4b946964dbe3d35d135ec3e36ddee
+      projectPath: Library\Artifacts\06\06f4b946964dbe3d35d135ec3e36ddee
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\15\1554b1d220e426f6eeaaeace9a8d3878
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\15\1554b1d220e426f6eeaaeace9a8d3878
+      projectPath: Library\Artifacts\15\1554b1d220e426f6eeaaeace9a8d3878
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\35\356b1446f0646ac794cda319b997bacd
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\35\356b1446f0646ac794cda319b997bacd
+      projectPath: Library\Artifacts\35\356b1446f0646ac794cda319b997bacd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\Artifacts\c9\c9559806c6ce687aa172fac48bd2e009
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\c9\c9559806c6ce687aa172fac48bd2e009
+      projectPath: Library\Artifacts\c9\c9559806c6ce687aa172fac48bd2e009
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\EditorInstance.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\SourceAssetDB
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+      projectPath: Library\StateCache\SceneView\428282-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Mental Health Game\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 8937239c0562268fc81fdc7840c0cf04e07d64a2
     mergeA: 
     mergeB: 
