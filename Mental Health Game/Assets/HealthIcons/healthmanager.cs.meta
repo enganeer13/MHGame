@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 98f0333aece95b441ab0b5185e228bd7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rose: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  - rose4: {fileID: 21300000, guid: 683b4a08cad373343b33cd2a8a187600, type: 3}
+  - rose3: {fileID: 21300000, guid: 18e2f7383537997439616d706ae02938, type: 3}
+  - rose2: {fileID: 21300000, guid: 3847322fb762576479b81e49ea963c2d, type: 3}
+  - rose1: {fileID: 21300000, guid: a45121f7d17661e44825ab1d3cc784f6, type: 3}
+  - rose0: {fileID: 21300000, guid: bb751540c65923d4b9b2fb2a3379fe8e, type: 3}
+  - enemy4: {fileID: 21300000, guid: 0d0a40d8690aac7468c8a849adfe235c, type: 3}
+  - enemy3: {fileID: 21300000, guid: d3041271a3271d34ab61bd2b869a4a9b, type: 3}
+  - enemy2: {fileID: 21300000, guid: 15996fc3e0445ce4397feb181328bb4d, type: 3}
+  - enemy1: {fileID: 21300000, guid: a6f9939bb6138b24092c047213580581, type: 3}
+  - enemy0: {fileID: 21300000, guid: d8f3dd76364eabd44adef40b2bdcc21b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
