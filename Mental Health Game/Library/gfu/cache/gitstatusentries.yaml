@@ -13,36 +13,239 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-01T16:31:25.683-08:00
-  initializedAtString: 2020-02-01T12:39:54.085-08:00
+  lastUpdatedAtString: 2020-02-02T11:02:28.181-08:00
+  initializedAtString: 2020-02-02T09:50:17.525-08:00
   entries:
-  - path: Mental Health Game\Assets\Extras.meta
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Extras.meta
-    projectPath: Assets\Extras.meta
+  - path: Mental Health Game\Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+      (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\2d
+      temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+    projectPath: Assets\2d temp assets\generic-rpg-pack_v0.3_(alpha-release)_vacaroxa
+      (1)\rpg-pack\chars\gabe\gabe-idle-run.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Assets\battle classroom.unity
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\battle
+      classroom.unity
+    projectPath: Assets\battle classroom.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mental Health Game\Assets\Materials.meta
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Materials.meta
-    projectPath: Assets\Materials.meta
+  - path: Mental Health Game\Assets\battle classroom.unity.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\battle
+      classroom.unity.meta
+    projectPath: Assets\battle classroom.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mental Health Game\Assets\Scripts\C_Interact.meta
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\C_Interact.meta
-    projectPath: Assets\Scripts\C_Interact.meta
+  - path: Mental Health Game\Assets\off color floor material.mat
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\off
+      color floor material.mat
+    projectPath: Assets\off color floor material.mat
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Mental Health Game\Assets\Scripts\C_Move.meta
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\C_Move.meta
-    projectPath: Assets\Scripts\C_Move.meta
+    workTreeStatus: 3
+  - path: Mental Health Game\Assets\offcolor_floortile 1.png
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\offcolor_floortile
+      1.png
+    projectPath: Assets\offcolor_floortile 1.png
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Mental Health Game\Assets\Tilemaps.meta
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps.meta
-    projectPath: Assets\Tilemaps.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\offcolor_floortile 1.png.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\offcolor_floortile
+      1.png.meta
+    projectPath: Assets\offcolor_floortile 1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1.meta
+    projectPath: Assets\Tilemaps 1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassPalette.prefab
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassPalette.prefab
+    projectPath: Assets\Tilemaps 1\ClassPalette.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassPalette.prefab.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassPalette.prefab.meta
+    projectPath: Assets\Tilemaps 1\ClassPalette.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet.png
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet.png
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet.png.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet.png.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_0.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_0.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_0.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_0.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_0.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_0.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_1.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_1.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_1.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_1.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_2.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_2.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_2.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_2.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_3.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_3.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_3.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_3.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_3.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_3.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_4.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_4.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_4.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_4.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_4.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_4.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_5.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_5.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_5.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_5.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_5.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_5.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_6.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_6.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_6.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_6.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_6.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_6.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_7.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_7.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_7.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_7.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_7.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_7.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_8.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_8.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_8.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_8.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_8.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_8.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_9.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_9.asset
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_9.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\ClassSpriteSheet_9.asset.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\ClassSpriteSheet_9.asset.meta
+    projectPath: Assets\Tilemaps 1\ClassSpriteSheet_9.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\NewShaderVariants.shadervariants
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\NewShaderVariants.shadervariants
+    projectPath: Assets\Tilemaps 1\NewShaderVariants.shadervariants
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Assets\Tilemaps 1\NewShaderVariants.shadervariants.meta
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Assets\Tilemaps
+      1\NewShaderVariants.shadervariants.meta
+    projectPath: Assets\Tilemaps 1\NewShaderVariants.shadervariants.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -52,18 +255,174 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mental Health Game\Library\Artifacts\7b\7b30ac7f54e526b2498c4e46b693c785
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\7b\7b30ac7f54e526b2498c4e46b693c785
-    projectPath: Library\Artifacts\7b\7b30ac7f54e526b2498c4e46b693c785
+  - path: Mental Health Game\Library\Artifacts\10\10a5675ac0d4c5ce1899fff5068061ee
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\10\10a5675ac0d4c5ce1899fff5068061ee
+    projectPath: Library\Artifacts\10\10a5675ac0d4c5ce1899fff5068061ee
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\ba\bade91d533d3b6b9cf18239a7756d52d
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\ba\bade91d533d3b6b9cf18239a7756d52d
-    projectPath: Library\Artifacts\ba\bade91d533d3b6b9cf18239a7756d52d
+  - path: Mental Health Game\Library\Artifacts\3c\3ccccd705b7b2932b032154d5e56c95a
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\3c\3ccccd705b7b2932b032154d5e56c95a
+    projectPath: Library\Artifacts\3c\3ccccd705b7b2932b032154d5e56c95a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\49\496e4c777283a107929f723c2655f58e
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\49\496e4c777283a107929f723c2655f58e
+    projectPath: Library\Artifacts\49\496e4c777283a107929f723c2655f58e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\49\49e4adf56d0c1988ad2276fa805e43b7
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\49\49e4adf56d0c1988ad2276fa805e43b7
+    projectPath: Library\Artifacts\49\49e4adf56d0c1988ad2276fa805e43b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\54\54573acbacee4a6e39c0896e745a668f
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\54\54573acbacee4a6e39c0896e745a668f
+    projectPath: Library\Artifacts\54\54573acbacee4a6e39c0896e745a668f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\59\596c0b86ffc36ba1bec4f227f65d1e43
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\59\596c0b86ffc36ba1bec4f227f65d1e43
+    projectPath: Library\Artifacts\59\596c0b86ffc36ba1bec4f227f65d1e43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\5a\5a159213107ef45be45a155bd7e6520d
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\5a\5a159213107ef45be45a155bd7e6520d
+    projectPath: Library\Artifacts\5a\5a159213107ef45be45a155bd7e6520d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\5a\5a3e36991fd30ef6af915ee23676c39f
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\5a\5a3e36991fd30ef6af915ee23676c39f
+    projectPath: Library\Artifacts\5a\5a3e36991fd30ef6af915ee23676c39f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\5e\5ef52f8f60f0baf8ad2e28fbfd6ca94e
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\5e\5ef52f8f60f0baf8ad2e28fbfd6ca94e
+    projectPath: Library\Artifacts\5e\5ef52f8f60f0baf8ad2e28fbfd6ca94e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\6c\6c8e725c192cd41819de002dd3a56cee
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\6c\6c8e725c192cd41819de002dd3a56cee
+    projectPath: Library\Artifacts\6c\6c8e725c192cd41819de002dd3a56cee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\6c\6cadd54df254ac044abdd6b1adfd3ce8
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\6c\6cadd54df254ac044abdd6b1adfd3ce8
+    projectPath: Library\Artifacts\6c\6cadd54df254ac044abdd6b1adfd3ce8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\7e\7ea0d92ee47890eac901dfed87f996b5
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\7e\7ea0d92ee47890eac901dfed87f996b5
+    projectPath: Library\Artifacts\7e\7ea0d92ee47890eac901dfed87f996b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\83\838efc462f67a0a7ac53c4da2876419e
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\83\838efc462f67a0a7ac53c4da2876419e
+    projectPath: Library\Artifacts\83\838efc462f67a0a7ac53c4da2876419e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\ae\ae9129a4b17398d8e00bc8658226a83f
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\ae\ae9129a4b17398d8e00bc8658226a83f
+    projectPath: Library\Artifacts\ae\ae9129a4b17398d8e00bc8658226a83f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\b5\b5cfb48a9f90911008b0ff5a172fa3d8
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\b5\b5cfb48a9f90911008b0ff5a172fa3d8
+    projectPath: Library\Artifacts\b5\b5cfb48a9f90911008b0ff5a172fa3d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\b7\b7842629137624bb3585f594d29e6b6e
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\b7\b7842629137624bb3585f594d29e6b6e
+    projectPath: Library\Artifacts\b7\b7842629137624bb3585f594d29e6b6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\c1\c1ed314832c27d123e518b3fb537697a
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\c1\c1ed314832c27d123e518b3fb537697a
+    projectPath: Library\Artifacts\c1\c1ed314832c27d123e518b3fb537697a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\c6\c6c5826974b1a9a2ee3fdbcd3261bee4
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\c6\c6c5826974b1a9a2ee3fdbcd3261bee4
+    projectPath: Library\Artifacts\c6\c6c5826974b1a9a2ee3fdbcd3261bee4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\cf\cf6d92469b73c0c2bb39e8c43ae2437f
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\cf\cf6d92469b73c0c2bb39e8c43ae2437f
+    projectPath: Library\Artifacts\cf\cf6d92469b73c0c2bb39e8c43ae2437f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\d0\d09976748edcd6cb4a85b048e232c439
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\d0\d09976748edcd6cb4a85b048e232c439
+    projectPath: Library\Artifacts\d0\d09976748edcd6cb4a85b048e232c439
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\d3\d30e087ce08b3dc50d24aee97bbdef73
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\d3\d30e087ce08b3dc50d24aee97bbdef73
+    projectPath: Library\Artifacts\d3\d30e087ce08b3dc50d24aee97bbdef73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\d7\d76c275a62012c8840c02da38f712d9a
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\d7\d76c275a62012c8840c02da38f712d9a
+    projectPath: Library\Artifacts\d7\d76c275a62012c8840c02da38f712d9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\db\db0fdd047700e1d301348acae3f60b27
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\db\db0fdd047700e1d301348acae3f60b27
+    projectPath: Library\Artifacts\db\db0fdd047700e1d301348acae3f60b27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\de\dee15e1de9f8052ee7f2e72c37c60415
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\de\dee15e1de9f8052ee7f2e72c37c60415
+    projectPath: Library\Artifacts\de\dee15e1de9f8052ee7f2e72c37c60415
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\f1\f1a509636b5578778fdbc0f00c4a13fb
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\f1\f1a509636b5578778fdbc0f00c4a13fb
+    projectPath: Library\Artifacts\f1\f1a509636b5578778fdbc0f00c4a13fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\Artifacts\f2\f2f5be52d95366e14a594143e87a545e
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\f2\f2f5be52d95366e14a594143e87a545e
+    projectPath: Library\Artifacts\f2\f2f5be52d95366e14a594143e87a545e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\EditorInstance.json
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -76,9 +435,81 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mental Health Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: Mental Health Game\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -88,15 +519,87 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mental Health Game\Library\SourceAssetDB-lock
-    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\SourceAssetDB-lock
-    projectPath: Library\SourceAssetDB-lock
+  - path: Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\f9c5ac-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Library\StateCache\SceneView\428282-mainStage.json
+    projectPath: Library\StateCache\SceneView\428282-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Mental Health Game\Temp\UnityLockfile
     fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-06b434c39ad20d84a93df7d7f1b24b47
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-06b434c39ad20d84a93df7d7f1b24b47
+    projectPath: Temp\UnityTempFile-06b434c39ad20d84a93df7d7f1b24b47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-113428886a6709a4ba2372e79bb78294
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-113428886a6709a4ba2372e79bb78294
+    projectPath: Temp\UnityTempFile-113428886a6709a4ba2372e79bb78294
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-6374d8f8b35e7044a935a5fc258ab9ab
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-6374d8f8b35e7044a935a5fc258ab9ab
+    projectPath: Temp\UnityTempFile-6374d8f8b35e7044a935a5fc258ab9ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-7c9d6790efc01dc4fa319937fc71c0b3
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-7c9d6790efc01dc4fa319937fc71c0b3
+    projectPath: Temp\UnityTempFile-7c9d6790efc01dc4fa319937fc71c0b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-86efefc9148c09846a6a690656991708
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-86efefc9148c09846a6a690656991708
+    projectPath: Temp\UnityTempFile-86efefc9148c09846a6a690656991708
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-922fedbe3153d5c42a3739b84ba081c5
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-922fedbe3153d5c42a3739b84ba081c5
+    projectPath: Temp\UnityTempFile-922fedbe3153d5c42a3739b84ba081c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-a047de1fc3d0b2345a4e7f7af3d341ff
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a047de1fc3d0b2345a4e7f7af3d341ff
+    projectPath: Temp\UnityTempFile-a047de1fc3d0b2345a4e7f7af3d341ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-b719fd7265018904fb2b717162e3cd2b
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-b719fd7265018904fb2b717162e3cd2b
+    projectPath: Temp\UnityTempFile-b719fd7265018904fb2b717162e3cd2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-bd07293f1753b5148bd44d6989016715
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-bd07293f1753b5148bd44d6989016715
+    projectPath: Temp\UnityTempFile-bd07293f1753b5148bd44d6989016715
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mental Health Game\Temp\UnityTempFile-cd9623b49048711489e2b8d88efc71aa
+    fullPath: C:\Users\Owner\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-cd9623b49048711489e2b8d88efc71aa
+    projectPath: Temp\UnityTempFile-cd9623b49048711489e2b8d88efc71aa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
