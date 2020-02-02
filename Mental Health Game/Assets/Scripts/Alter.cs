@@ -5,6 +5,8 @@ using UnityEngine;
 public class Alter : MonoBehaviour
 {
 
+    public GameObject vaseImage;
+
     private void OnTriggerEnter(Collider other)
     {
         //Debug.Log("Standing at alter");
@@ -14,6 +16,8 @@ public class Alter : MonoBehaviour
             GameVariables.keyCount++;
             //Debug.Log("Current key count: " + GameVariables.keyCount);
             Debug.Log("The alter has been opened.");
+
+            vaseImage.SetActive(!vaseImage.activeSelf);
         }
 
         

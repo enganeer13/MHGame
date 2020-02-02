@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-02-02T11:07:23.938-08:00
+  lastUpdatedAtString: 2020-02-02T11:08:28.760-08:00
   initializedAtString: 2020-02-02T11:06:28.862-08:00
   localBranches:
   - name: C_Programming-Branch
     tracking: origin/C_Programming-Branch
   - name: Leave_me_alone
-    tracking: 
+    tracking: origin/Leave_me_alone
   - name: master
     tracking: origin/master
   remoteBranches:
@@ -30,6 +30,8 @@ MonoBehaviour:
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/Idk
+    tracking: '[None]'
+  - name: origin/Leave_me_alone
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
@@ -54,9 +56,9 @@ MonoBehaviour:
       trackingBranch: C_Programming-Branch
     - name: Leave_me_alone
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/enganeer13/MHGame.git
+      trackingBranch: Leave_me_alone
     - name: master
       remote:
         name: origin
@@ -71,6 +73,7 @@ MonoBehaviour:
       - C_Programming-Branch
       - HEAD
       - Idk
+      - Leave_me_alone
       - master
     subKeyValues:
     - Values:
@@ -90,6 +93,11 @@ MonoBehaviour:
           url: https://github.com/enganeer13/MHGame.git
         trackingBranch: 
       - name: Idk
+        remote:
+          name: origin
+          url: https://github.com/enganeer13/MHGame.git
+        trackingBranch: 
+      - name: Leave_me_alone
         remote:
           name: origin
           url: https://github.com/enganeer13/MHGame.git
