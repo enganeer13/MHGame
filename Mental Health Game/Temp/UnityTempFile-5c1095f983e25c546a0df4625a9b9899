@@ -78,8 +78,6 @@
 /reference:Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
 /reference:Library/ScriptAssemblies/Unity.TextMeshPro.dll
 /reference:Library/ScriptAssemblies/UnityEditor.UI.dll
-/reference:"C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
-/reference:"C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
 /reference:"C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.AppContext.dll"
@@ -281,7 +279,6 @@
 /define:ENABLE_UNITY_COLLECTIONS_CHECKS
 /define:ENABLE_BURST_AOT
 /define:UNITY_TEAM_LICENSE
-/define:ENABLE_VSTU
 /define:ENABLE_CUSTOM_RENDER_TEXTURE
 /define:ENABLE_DIRECTOR
 /define:ENABLE_LOCALIZATION
@@ -292,10 +289,44 @@
 /define:ENABLE_LEGACY_INPUT_MANAGER
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-Assets\CameraFollow.cs
+Assets\Art\HealthIcons\healthmanager.cs
+Assets\Scripts\Alter.cs
+Assets\Scripts\Camera\CameraFollow.cs
 Assets\Scripts\Common\BasicCharacter.cs
-Assets\Scripts\Common\ColliderToolEditor.cs
-Assets\Scripts\Common\EditableColliderTool.cs
-Assets\Scripts\Common\EditableShape.cs
-Assets\Scripts\Common\ResetScene.cs
-Assets\Scripts\Common\ShapeToolEditor.cs
+Assets\Scripts\GameVariables.cs
+Assets\Scripts\Inventory.cs
+Assets\Scripts\NewBehaviourScript.cs
+Assets\Scripts\Pickup.cs
+"Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs"
+"Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs"
