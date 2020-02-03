@@ -13,191 +13,93 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-02T11:32:24.166-08:00
-  initializedAtString: 2020-02-02T09:09:10.638-08:00
+  lastUpdatedAtString: 2020-02-02T22:11:46.313-08:00
+  initializedAtString: 2020-02-02T22:11:46.313-08:00
   entries:
-  - path: Mental Health Game\Assets\Art\door.png
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\door.png
-    projectPath: Assets\Art\door.png
+  - path: Mental Health Game\Assets\ClassroomBattleScene.unity.meta
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\ClassroomBattleScene.unity.meta
+    projectPath: Assets\ClassroomBattleScene.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mental Health Game\Assets\Art\door.png.meta
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\door.png.meta
-    projectPath: Assets\Art\door.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Art\inventory-screen-1.png
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\inventory-screen-1.png
-    projectPath: Assets\Art\inventory-screen-1.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Art\inventory-screen-1.png.meta
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Art\inventory-screen-1.png.meta
-    projectPath: Assets\Art\inventory-screen-1.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\New Scene.unity
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\New
-      Scene.unity
-    projectPath: Assets\New Scene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Mental Health Game\Assets\New Scene.unity.meta
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\New
-      Scene.unity.meta
-    projectPath: Assets\New Scene.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Mental Health Game\Assets\Scenes.meta
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scenes.meta
-    projectPath: Assets\Scenes.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Scenes\dor.unity
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scenes\dor.unity
-    projectPath: Assets\Scenes\dor.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Scenes\dor.unity.meta
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scenes\dor.unity.meta
-    projectPath: Assets\Scenes\dor.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Scenes\New Scene.unity
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scenes\New
-      Scene.unity
-    projectPath: Assets\Scenes\New Scene.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Scenes\New Scene.unity.meta
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scenes\New
-      Scene.unity.meta
-    projectPath: Assets\Scenes\New Scene.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Scenes\Test Scene.unity
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scenes\Test
-      Scene.unity
-    projectPath: Assets\Scenes\Test Scene.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Scenes\Test Scene.unity.meta
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scenes\Test
-      Scene.unity.meta
-    projectPath: Assets\Scenes\Test Scene.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Scripts\Alter.cs
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\Alter.cs
-    projectPath: Assets\Scripts\Alter.cs
+  - path: Mental Health Game\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mental Health Game\Assets\Scripts\NewBehaviourScript.cs
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\NewBehaviourScript.cs
-    projectPath: Assets\Scripts\NewBehaviourScript.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Scripts\NewBehaviourScript.cs.meta
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Scripts\NewBehaviourScript.cs.meta
-    projectPath: Assets\Scripts\NewBehaviourScript.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Assets\Test Scene.unity
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Test
-      Scene.unity
-    projectPath: Assets\Test Scene.unity
+  - path: Mental Health Game\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Mental Health Game\Assets\Test Scene.unity.meta
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Test
-      Scene.unity.meta
-    projectPath: Assets\Test Scene.unity.meta
+    workTreeStatus: 3
+  - path: Mental Health Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Mental Health Game\Library\ArtifactDB
     fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mental Health Game\Library\Artifacts\08\082c45fd617083a4a9b8bb842f0e6320
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\08\082c45fd617083a4a9b8bb842f0e6320
-    projectPath: Library\Artifacts\08\082c45fd617083a4a9b8bb842f0e6320
+  - path: Mental Health Game\Library\Artifacts\02\020169fbb0436d43797516461cbfaa74
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\02\020169fbb0436d43797516461cbfaa74
+    projectPath: Library\Artifacts\02\020169fbb0436d43797516461cbfaa74
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\31\31280418080d6487e9aae7df490860bb
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\31\31280418080d6487e9aae7df490860bb
-    projectPath: Library\Artifacts\31\31280418080d6487e9aae7df490860bb
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Library\Artifacts\37\37f3cb38d797055c03f72f8d2d1ef50e
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\37\37f3cb38d797055c03f72f8d2d1ef50e
+    projectPath: Library\Artifacts\37\37f3cb38d797055c03f72f8d2d1ef50e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\3c\3c0100af42d5d81b942be263c2cafb13
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\3c\3c0100af42d5d81b942be263c2cafb13
-    projectPath: Library\Artifacts\3c\3c0100af42d5d81b942be263c2cafb13
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Library\Artifacts\48\48766a3c906915d0fca1dae61570d769
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\48\48766a3c906915d0fca1dae61570d769
+    projectPath: Library\Artifacts\48\48766a3c906915d0fca1dae61570d769
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\80\80fc50a24a71f61482d34fe5d2313665
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\80\80fc50a24a71f61482d34fe5d2313665
-    projectPath: Library\Artifacts\80\80fc50a24a71f61482d34fe5d2313665
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Library\Artifacts\52\52cb4a8ea48aeaa7e004073c1aa99363
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\52\52cb4a8ea48aeaa7e004073c1aa99363
+    projectPath: Library\Artifacts\52\52cb4a8ea48aeaa7e004073c1aa99363
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\94\94561fbe45c58f27e943459dfad79fa4
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\94\94561fbe45c58f27e943459dfad79fa4
-    projectPath: Library\Artifacts\94\94561fbe45c58f27e943459dfad79fa4
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Library\Artifacts\6d\6d9dbda13d0a2310e23d63449359a709
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\6d\6d9dbda13d0a2310e23d63449359a709
+    projectPath: Library\Artifacts\6d\6d9dbda13d0a2310e23d63449359a709
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\a6\a6edfbdaf73aca7409a6dc66c0d1256f
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\a6\a6edfbdaf73aca7409a6dc66c0d1256f
-    projectPath: Library\Artifacts\a6\a6edfbdaf73aca7409a6dc66c0d1256f
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Library\Artifacts\db\db10384932561312d23502e589325d5d
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\db\db10384932561312d23502e589325d5d
+    projectPath: Library\Artifacts\db\db10384932561312d23502e589325d5d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\bd\bde35ee4bd9850e87f7eb38f7c4c92a5
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\bd\bde35ee4bd9850e87f7eb38f7c4c92a5
-    projectPath: Library\Artifacts\bd\bde35ee4bd9850e87f7eb38f7c4c92a5
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\c6\c6d8dae1b511fea732678563851597ce
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\c6\c6d8dae1b511fea732678563851597ce
-    projectPath: Library\Artifacts\c6\c6d8dae1b511fea732678563851597ce
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\Library\EditorInstance.json
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\c8\c89d051dea9d006078e21fc49df9c29e
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\c8\c89d051dea9d006078e21fc49df9c29e
-    projectPath: Library\Artifacts\c8\c89d051dea9d006078e21fc49df9c29e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Library\Artifacts\f5\f53b822c1fb44d5c1106699725c70288
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\Artifacts\f5\f53b822c1fb44d5c1106699725c70288
-    projectPath: Library\Artifacts\f5\f53b822c1fb44d5c1106699725c70288
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Mental Health Game\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -234,9 +136,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mental Health Game\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
+  - path: Mental Health Game\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -246,9 +148,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: Mental Health Game\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -276,339 +178,207 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Mental Health Game\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mental Health Game\ProjectSettings\InputManager.asset
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Mental Health Game\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Mental Health Game\Temp\UnityLockfile
     fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-06bbcd7318f0a1247ab48e08d2d6abf3
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-06bbcd7318f0a1247ab48e08d2d6abf3
-    projectPath: Temp\UnityTempFile-06bbcd7318f0a1247ab48e08d2d6abf3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-07d7fa1e91a04e749826604c14faf2b0
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-07d7fa1e91a04e749826604c14faf2b0
-    projectPath: Temp\UnityTempFile-07d7fa1e91a04e749826604c14faf2b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-0a5a338964122574fac42b393c448754
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-0a5a338964122574fac42b393c448754
-    projectPath: Temp\UnityTempFile-0a5a338964122574fac42b393c448754
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-0d89e87072d00c9429241e7e7e303110
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-0d89e87072d00c9429241e7e7e303110
-    projectPath: Temp\UnityTempFile-0d89e87072d00c9429241e7e7e303110
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-13f8b936e0506b64e89e382245211c9c
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-13f8b936e0506b64e89e382245211c9c
-    projectPath: Temp\UnityTempFile-13f8b936e0506b64e89e382245211c9c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-174c5db24a16e324daa62a45b42dc61f
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-174c5db24a16e324daa62a45b42dc61f
-    projectPath: Temp\UnityTempFile-174c5db24a16e324daa62a45b42dc61f
+  - path: Mental Health Game\Temp\UnityTempFile-021ea54bdde0cbe47a8a80d1e4b38914
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-021ea54bdde0cbe47a8a80d1e4b38914
+    projectPath: Temp\UnityTempFile-021ea54bdde0cbe47a8a80d1e4b38914
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Mental Health Game\Temp\UnityTempFile-185bb6704c9380541b12e966808b90b5
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-185bb6704c9380541b12e966808b90b5
-    projectPath: Temp\UnityTempFile-185bb6704c9380541b12e966808b90b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-254ac8d0977bd8c408dd2242cb255318
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-254ac8d0977bd8c408dd2242cb255318
-    projectPath: Temp\UnityTempFile-254ac8d0977bd8c408dd2242cb255318
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-2f9d4dd2776057746bf92476e3b50b86
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-2f9d4dd2776057746bf92476e3b50b86
-    projectPath: Temp\UnityTempFile-2f9d4dd2776057746bf92476e3b50b86
+  - path: Mental Health Game\Temp\UnityTempFile-03db33c35d497604f917d1e84384a8f1
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-03db33c35d497604f917d1e84384a8f1
+    projectPath: Temp\UnityTempFile-03db33c35d497604f917d1e84384a8f1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Mental Health Game\Temp\UnityTempFile-3594390b29910d2488bf9693718afa77
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-3594390b29910d2488bf9693718afa77
-    projectPath: Temp\UnityTempFile-3594390b29910d2488bf9693718afa77
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-389a1e91ae32c6d4b8b258bc2bcca510
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-389a1e91ae32c6d4b8b258bc2bcca510
-    projectPath: Temp\UnityTempFile-389a1e91ae32c6d4b8b258bc2bcca510
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-3a2f9f8a7d296e74d9e3fc3cb6a9ed06
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-3a2f9f8a7d296e74d9e3fc3cb6a9ed06
-    projectPath: Temp\UnityTempFile-3a2f9f8a7d296e74d9e3fc3cb6a9ed06
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-3d07ed2e5bc911b4cace8eb2250f3f5a
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-3d07ed2e5bc911b4cace8eb2250f3f5a
-    projectPath: Temp\UnityTempFile-3d07ed2e5bc911b4cace8eb2250f3f5a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-4380bc34b32a406468e4fb87de05a578
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4380bc34b32a406468e4fb87de05a578
-    projectPath: Temp\UnityTempFile-4380bc34b32a406468e4fb87de05a578
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-4626cabad910b604aa0396ad8b16e278
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4626cabad910b604aa0396ad8b16e278
-    projectPath: Temp\UnityTempFile-4626cabad910b604aa0396ad8b16e278
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-4d9bb753c388c734abe07fe86c1e7abf
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4d9bb753c388c734abe07fe86c1e7abf
-    projectPath: Temp\UnityTempFile-4d9bb753c388c734abe07fe86c1e7abf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-52f8dd5b0280f2f4fa97886707d80c1c
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-52f8dd5b0280f2f4fa97886707d80c1c
-    projectPath: Temp\UnityTempFile-52f8dd5b0280f2f4fa97886707d80c1c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-53b330c36c90be94aba557dc0156460b
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-53b330c36c90be94aba557dc0156460b
-    projectPath: Temp\UnityTempFile-53b330c36c90be94aba557dc0156460b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-615e1828e8f2fd64a8a6574cf123d582
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-615e1828e8f2fd64a8a6574cf123d582
-    projectPath: Temp\UnityTempFile-615e1828e8f2fd64a8a6574cf123d582
+  - path: Mental Health Game\Temp\UnityTempFile-06e937c1993fe57499a0eae1e2f0ed83
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-06e937c1993fe57499a0eae1e2f0ed83
+    projectPath: Temp\UnityTempFile-06e937c1993fe57499a0eae1e2f0ed83
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Mental Health Game\Temp\UnityTempFile-63a9fa1fb03f7e14a8823c4618229405
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-63a9fa1fb03f7e14a8823c4618229405
-    projectPath: Temp\UnityTempFile-63a9fa1fb03f7e14a8823c4618229405
+  - path: Mental Health Game\Temp\UnityTempFile-15b8da082dc0d1b41aa7d714550b5a54
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-15b8da082dc0d1b41aa7d714550b5a54
+    projectPath: Temp\UnityTempFile-15b8da082dc0d1b41aa7d714550b5a54
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Mental Health Game\Temp\UnityTempFile-64c8cb0d1b034bd48b392413b6d9f7da
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-64c8cb0d1b034bd48b392413b6d9f7da
-    projectPath: Temp\UnityTempFile-64c8cb0d1b034bd48b392413b6d9f7da
+  - path: Mental Health Game\Temp\UnityTempFile-1ac8211f365b7bd48b46bc2ef95c7c92
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-1ac8211f365b7bd48b46bc2ef95c7c92
+    projectPath: Temp\UnityTempFile-1ac8211f365b7bd48b46bc2ef95c7c92
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-6afeada9ab812a84c85cb971c516b2c3
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-6afeada9ab812a84c85cb971c516b2c3
-    projectPath: Temp\UnityTempFile-6afeada9ab812a84c85cb971c516b2c3
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-21076aec415f756498f15a2288916d3d
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-21076aec415f756498f15a2288916d3d
+    projectPath: Temp\UnityTempFile-21076aec415f756498f15a2288916d3d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-70f4c6a4454fff84387ced6ba4652bdd
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-70f4c6a4454fff84387ced6ba4652bdd
-    projectPath: Temp\UnityTempFile-70f4c6a4454fff84387ced6ba4652bdd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-2caaff4f89ded28439675f8587554165
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-2caaff4f89ded28439675f8587554165
+    projectPath: Temp\UnityTempFile-2caaff4f89ded28439675f8587554165
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-72ecd2bf0d05c334a946403e0a3285b9
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-72ecd2bf0d05c334a946403e0a3285b9
-    projectPath: Temp\UnityTempFile-72ecd2bf0d05c334a946403e0a3285b9
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-2ce3d2692fed358498f89b4ce4507911
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-2ce3d2692fed358498f89b4ce4507911
+    projectPath: Temp\UnityTempFile-2ce3d2692fed358498f89b4ce4507911
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-773446fbec1e71b4191ebdd9c2ec1940
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-773446fbec1e71b4191ebdd9c2ec1940
-    projectPath: Temp\UnityTempFile-773446fbec1e71b4191ebdd9c2ec1940
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-35eeb482ac3316040b66759b7bd0370c
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-35eeb482ac3316040b66759b7bd0370c
+    projectPath: Temp\UnityTempFile-35eeb482ac3316040b66759b7bd0370c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-7effff7939dd60346b2c5ff1693469e5
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-7effff7939dd60346b2c5ff1693469e5
-    projectPath: Temp\UnityTempFile-7effff7939dd60346b2c5ff1693469e5
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-45130d6c8d416424b917898c34a9bbe0
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-45130d6c8d416424b917898c34a9bbe0
+    projectPath: Temp\UnityTempFile-45130d6c8d416424b917898c34a9bbe0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-886718e314d6fe541ac91b8eb244ade0
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-886718e314d6fe541ac91b8eb244ade0
-    projectPath: Temp\UnityTempFile-886718e314d6fe541ac91b8eb244ade0
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-4698342b928e95b4690546c78fe9766b
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4698342b928e95b4690546c78fe9766b
+    projectPath: Temp\UnityTempFile-4698342b928e95b4690546c78fe9766b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-886f0e2bed351ba4f94e7cae31ba1035
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-886f0e2bed351ba4f94e7cae31ba1035
-    projectPath: Temp\UnityTempFile-886f0e2bed351ba4f94e7cae31ba1035
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-4f3892a6b60fc1743933c828a0a224f1
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-4f3892a6b60fc1743933c828a0a224f1
+    projectPath: Temp\UnityTempFile-4f3892a6b60fc1743933c828a0a224f1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-8ac79c4f4f00a374481bff541bcb30eb
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-8ac79c4f4f00a374481bff541bcb30eb
-    projectPath: Temp\UnityTempFile-8ac79c4f4f00a374481bff541bcb30eb
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-512a4f84c1ca8bb42b343a24ae4aae55
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-512a4f84c1ca8bb42b343a24ae4aae55
+    projectPath: Temp\UnityTempFile-512a4f84c1ca8bb42b343a24ae4aae55
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-8bacbdc7e6479484ea4eaf077e2864eb
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-8bacbdc7e6479484ea4eaf077e2864eb
-    projectPath: Temp\UnityTempFile-8bacbdc7e6479484ea4eaf077e2864eb
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-57affc277e55a874dae45941a2dd59b9
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-57affc277e55a874dae45941a2dd59b9
+    projectPath: Temp\UnityTempFile-57affc277e55a874dae45941a2dd59b9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-8cd1f9b1d7b01cb45a77f89d9316e79e
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-8cd1f9b1d7b01cb45a77f89d9316e79e
-    projectPath: Temp\UnityTempFile-8cd1f9b1d7b01cb45a77f89d9316e79e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-64833ede9823ca344b3342d479d6ac33
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-64833ede9823ca344b3342d479d6ac33
+    projectPath: Temp\UnityTempFile-64833ede9823ca344b3342d479d6ac33
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-8e13c74264cfad646833efd5ade73916
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-8e13c74264cfad646833efd5ade73916
-    projectPath: Temp\UnityTempFile-8e13c74264cfad646833efd5ade73916
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-7ceb45cc66e44c444922e62499090cf5
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-7ceb45cc66e44c444922e62499090cf5
+    projectPath: Temp\UnityTempFile-7ceb45cc66e44c444922e62499090cf5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-8ed8bcc4f9c5a014eb95ec2a0ef9720b
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-8ed8bcc4f9c5a014eb95ec2a0ef9720b
-    projectPath: Temp\UnityTempFile-8ed8bcc4f9c5a014eb95ec2a0ef9720b
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-84e5b261c1df6c943b075f3bfa3fa815
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-84e5b261c1df6c943b075f3bfa3fa815
+    projectPath: Temp\UnityTempFile-84e5b261c1df6c943b075f3bfa3fa815
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-9218e1b4d4108434d8fe367e36afbcb1
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-9218e1b4d4108434d8fe367e36afbcb1
-    projectPath: Temp\UnityTempFile-9218e1b4d4108434d8fe367e36afbcb1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-8e3e1c390f2ebdf4e88cf0a42fa0edfd
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-8e3e1c390f2ebdf4e88cf0a42fa0edfd
+    projectPath: Temp\UnityTempFile-8e3e1c390f2ebdf4e88cf0a42fa0edfd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-98a2aa858c7e3bb40ae558713bba021b
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-98a2aa858c7e3bb40ae558713bba021b
-    projectPath: Temp\UnityTempFile-98a2aa858c7e3bb40ae558713bba021b
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-92382f821e0f3a940ad1a1521c9c9980
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-92382f821e0f3a940ad1a1521c9c9980
+    projectPath: Temp\UnityTempFile-92382f821e0f3a940ad1a1521c9c9980
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-a09c654729cd2804ab5e9c42e2094e6e
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a09c654729cd2804ab5e9c42e2094e6e
-    projectPath: Temp\UnityTempFile-a09c654729cd2804ab5e9c42e2094e6e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-9828a163f1aaa494799b81f72e0c76ff
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-9828a163f1aaa494799b81f72e0c76ff
+    projectPath: Temp\UnityTempFile-9828a163f1aaa494799b81f72e0c76ff
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-a0af0267a2fc92e41983c021511e83f6
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a0af0267a2fc92e41983c021511e83f6
-    projectPath: Temp\UnityTempFile-a0af0267a2fc92e41983c021511e83f6
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-a782ad2efb9ae5e4d8a37e71078a1a10
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a782ad2efb9ae5e4d8a37e71078a1a10
+    projectPath: Temp\UnityTempFile-a782ad2efb9ae5e4d8a37e71078a1a10
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-a15cc02e7dfc89c48b85d22f2e5f4dd6
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a15cc02e7dfc89c48b85d22f2e5f4dd6
-    projectPath: Temp\UnityTempFile-a15cc02e7dfc89c48b85d22f2e5f4dd6
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-a80e97ea30fb52c4fba851734065697f
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a80e97ea30fb52c4fba851734065697f
+    projectPath: Temp\UnityTempFile-a80e97ea30fb52c4fba851734065697f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-a24d91c5ec8cc034795f3abeab7a8e54
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a24d91c5ec8cc034795f3abeab7a8e54
-    projectPath: Temp\UnityTempFile-a24d91c5ec8cc034795f3abeab7a8e54
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-a989823dee90f814984d255b811d1d5b
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a989823dee90f814984d255b811d1d5b
+    projectPath: Temp\UnityTempFile-a989823dee90f814984d255b811d1d5b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-a61e3e80de22cf74eba5a4ca084137f1
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a61e3e80de22cf74eba5a4ca084137f1
-    projectPath: Temp\UnityTempFile-a61e3e80de22cf74eba5a4ca084137f1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-aba9ca7ae64a1b94d8afb05fe7e26812
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-aba9ca7ae64a1b94d8afb05fe7e26812
+    projectPath: Temp\UnityTempFile-aba9ca7ae64a1b94d8afb05fe7e26812
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-a9916a9e97457b44686e73bae69f34cd
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-a9916a9e97457b44686e73bae69f34cd
-    projectPath: Temp\UnityTempFile-a9916a9e97457b44686e73bae69f34cd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-ace68edc5f923904e888bc207e506c4b
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-ace68edc5f923904e888bc207e506c4b
+    projectPath: Temp\UnityTempFile-ace68edc5f923904e888bc207e506c4b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-af263a1efb7277e489f1adacbeab855c
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-af263a1efb7277e489f1adacbeab855c
-    projectPath: Temp\UnityTempFile-af263a1efb7277e489f1adacbeab855c
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-cadae2e5a538cea43ab2a869a606474a
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-cadae2e5a538cea43ab2a869a606474a
+    projectPath: Temp\UnityTempFile-cadae2e5a538cea43ab2a869a606474a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-b59dfe31ad7ad6b43b162bce39586b28
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-b59dfe31ad7ad6b43b162bce39586b28
-    projectPath: Temp\UnityTempFile-b59dfe31ad7ad6b43b162bce39586b28
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-d8b69eb5d4b385d4aae56a0bfdec4dde
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-d8b69eb5d4b385d4aae56a0bfdec4dde
+    projectPath: Temp\UnityTempFile-d8b69eb5d4b385d4aae56a0bfdec4dde
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-b5bc0c6bc31634e4aa9cfb6d8dc37bda
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-b5bc0c6bc31634e4aa9cfb6d8dc37bda
-    projectPath: Temp\UnityTempFile-b5bc0c6bc31634e4aa9cfb6d8dc37bda
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-e70fedcc7e4855746869301cb54edbca
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-e70fedcc7e4855746869301cb54edbca
+    projectPath: Temp\UnityTempFile-e70fedcc7e4855746869301cb54edbca
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-c249db3aa6d67b643afc86be05479c03
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-c249db3aa6d67b643afc86be05479c03
-    projectPath: Temp\UnityTempFile-c249db3aa6d67b643afc86be05479c03
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-e93de7103a5e30e43a6176219687ccb1
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-e93de7103a5e30e43a6176219687ccb1
+    projectPath: Temp\UnityTempFile-e93de7103a5e30e43a6176219687ccb1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-c286ee3878f7c714ea0b3239b5905b70
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-c286ee3878f7c714ea0b3239b5905b70
-    projectPath: Temp\UnityTempFile-c286ee3878f7c714ea0b3239b5905b70
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mental Health Game\Temp\UnityTempFile-f718b369d2d783f41a4e2fabcb460922
+    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-f718b369d2d783f41a4e2fabcb460922
+    projectPath: Temp\UnityTempFile-f718b369d2d783f41a4e2fabcb460922
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-c42ccf97c35e1f944996a6d1d4193ff0
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-c42ccf97c35e1f944996a6d1d4193ff0
-    projectPath: Temp\UnityTempFile-c42ccf97c35e1f944996a6d1d4193ff0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-c7a5796370b5f5149a9a3f0289554979
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-c7a5796370b5f5149a9a3f0289554979
-    projectPath: Temp\UnityTempFile-c7a5796370b5f5149a9a3f0289554979
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-cc70b5acf46e52c458ae22e7ab1cd67d
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-cc70b5acf46e52c458ae22e7ab1cd67d
-    projectPath: Temp\UnityTempFile-cc70b5acf46e52c458ae22e7ab1cd67d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-e1ff1bc3927b62e468f7b779f848c21f
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-e1ff1bc3927b62e468f7b779f848c21f
-    projectPath: Temp\UnityTempFile-e1ff1bc3927b62e468f7b779f848c21f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-e2cbbcb304ab35c478bd2aa98e7f7412
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-e2cbbcb304ab35c478bd2aa98e7f7412
-    projectPath: Temp\UnityTempFile-e2cbbcb304ab35c478bd2aa98e7f7412
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-e54f77305f07f6e43b08affa2f8ce938
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-e54f77305f07f6e43b08affa2f8ce938
-    projectPath: Temp\UnityTempFile-e54f77305f07f6e43b08affa2f8ce938
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-eb171a806c4e3c84fac59c34912ca89f
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-eb171a806c4e3c84fac59c34912ca89f
-    projectPath: Temp\UnityTempFile-eb171a806c4e3c84fac59c34912ca89f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mental Health Game\Temp\UnityTempFile-f5f2e69f9aaeb1b40aa7799a2e3ac2f6
-    fullPath: C:\Users\zacha\Documents\GitHub\MHGame\Mental Health Game\Temp\UnityTempFile-f5f2e69f9aaeb1b40aa7799a2e3ac2f6
-    projectPath: Temp\UnityTempFile-f5f2e69f9aaeb1b40aa7799a2e3ac2f6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
