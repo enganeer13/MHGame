@@ -1,4 +1,6 @@
-﻿using System;
+﻿using System.Collections;
+using System.Collections.Generic;
+using System;
 using UnityEngine;
 
 namespace Common.Scripts
@@ -7,9 +9,13 @@ namespace Common.Scripts
   {
     #region Constants
 
-    private static readonly int WALK_PROPERTY = Animator.StringToHash("Walk");
+        private static readonly int WALK_PROPERTY = Animator.StringToHash("Walk");
+        public float moveSpeed = 5f;
+        Vector2 movement;
+        
 
-    #endregion
+        #endregion
+
 
 
     #region Inspector
@@ -41,10 +47,21 @@ namespace Common.Scripts
 
     private void Update ()
     {
+            movement.x = Input.GetAxisRaw("Horizontal");
+            movement.y = Input.GetAxisRaw("Vertical");
+
+            animator.SetFloat("Horizontal", movement.x);
+            animator.SetFloat("Vertical", movement.y);
+            animator.SetFloat("Speed", movement.sqrMagnitude);
+
+
+
+
       // Vertical
       float inputY = 0;
       if ( Input.GetKey(KeyCode.UpArrow) )
         inputY = 1;
+        
       else if ( Input.GetKey(KeyCode.DownArrow) )
         inputY = -1;
 
